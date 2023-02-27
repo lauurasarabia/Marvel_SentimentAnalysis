@@ -26,6 +26,8 @@ After importing both csv files into pandas, I used some functions for cleaning a
 Thanks to nltk library I could analyze every line of each movie that I have in my database through an automated process of tagging data according to their sentiment, such as positive, neutral and negative. 
 I created a dataframe with this information and merged it with the original data.
 
+![nltk](https://github.com/lauurasarabia/project4/blob/main/images/nltk.png?raw=true)
+
 ### 4. SQL Queries
 On the other hand, I created a new database in mySQL and exported all the obtained information into it. Using Python, I did some queries to get more detailed information for my visualizations.
 
