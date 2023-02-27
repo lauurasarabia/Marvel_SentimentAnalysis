@@ -32,7 +32,7 @@ On the other hand, I created a new database in mySQL and exported all the obtain
 ### 5.  Tableau
 I created the following visualizations in Tableau:
 
-![dashboard1]()
+![dashboard1](https://github.com/lauurasarabia/project4/blob/main/images/movies_characters.png?raw=true)
 
-![dashboard2]()
+![dashboard2](https://github.com/lauurasarabia/project4/blob/main/images/compound.png?raw=true)
 
