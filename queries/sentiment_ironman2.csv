@@ -1,0 +1,991 @@
+,full_name,line,movie,compound
+0,JUSTIN HAMMER,"Well, you’re talking to the right guy.  Claridge Hi-Tec, semi-automatic, 9mm pistol. Too downtown? I agree. M24 shotgun, pump action. Five-round magazine. You know what? You’re not a hunter. What am I talking about? I’m getting rid of it. This is the FN-2000 from Belgium. They do make something better than waffles. It’s beautiful, But I can tell this isn’t disco enough for you, so I’m gonna put it right here. You’re looking at a Milkor 40mm grenade launcher. Tear gas, smoke. Hippie control. You’re tough. Let me tell you something. Size does matter. Don’t let anyone tell you different. This is an M134 7.62 Minigun. Six invidual barrels. The torso taker, powder maker. Our boys in uniform call in Uncle Gazpacho or Puff the Magic Dragon. Okay. These are the Cubans, baby. This is the Cohibas, the Montecristos. This is a kinetic-kill, side-winder vehicle with a secondary cyclotrimethlyenetrinitamine RDX burst. It’s capable of busting the bunker under the bunker you just busted. If it were any smarter, it would write a book. A book that would make Ulysses look like it was written in crayon. It would read it to you. This is my Eiffel Tower. This is my Rachmaninoff’s Third. My Pieta. It’s completely elegant. It’s bafflingly beautiful. And it’s capable of reducing the population of any standing structure to zero. I call it the Ex-Wife. That’s the best I got. Are we gonna do this? Give me something here. You’re like a sphinx. I can’t read you.",Iron Man 2,0.992
+1,JUSTIN HAMMER,"Hey. There he is. There he is. What an absolute pleasure. Welcome. Oh goodness gracious. Can we get the handcuffs off my friend here? Forgive me, I’m sorry. I’m such a huge fan of yours. I didn’t want to make a first impression like this. He’s not an animal. Come on. He’s a human being. Thank you. We’re fine. My name is Justin Hammer. I’d like to do some business with you. Please sit. Dig in. What do we have today Jack?",Iron Man 2,0.9862
+2,TONY STARK,"Please, it’s not about me.  It’s not about you. It’s not even about us. It’s about legacy. It’s about what we choose to leave behind for future generations. And that’s why for the next year and for the first time since 1974, the best and brightest men and women of nations and corporations the world over will pool their resources, share their collective vision, to leave behind a brighter future. It’s not about us. Therefore, what I’m saying, if I’m saying anything, is welcome back to the Stark Expo.  And now, making a special guest appearance from the great beyond to tell you what it’s all about, please welcome my father, Howard.",Iron Man 2,0.9834
+3,JUSTIN HAMMER,"Absolutely. I’m no expert. I defer to you, Anthony. You’re the wonder boy. Senator, if I may. I may well not be an expert, but you know who was the expert? Your dad. Howard Stark. Really a father to us all, and to the military-industrial age. Let’s just be clear, he was no flower child. He was a lion. We all know why we’re here. In the last six months, Anthony Stark has created a sword with untold possibilities. And yet, he insists it’s a shield. He asks us to trust him as we cower behind it. I wish I were comforted, Anthony, I really do. I’d love to leave my door unlocked when I leave the house, but this ain’t Canada. You know, we live in a world of grave threats, threats that Mr Stark will not always be able to foresee. Thank you. God bless Iron Man. God bless America.",Iron Man 2,0.9759
+4,TONY STARK,Because I’m your nuclear deterrent. It’s working. We’re safe. America is secure. You want my property? You can’t have it. But I did you a big favour. I’ve successfully privatised world peace. What more do you want? For now! I tried to play ball with these ass-clowns.,Iron Man 2,0.9678
+5,TONY STARK,"Chlorophyll. I hereby irrevocably appoint you chairman and CEO of Stark Industries effective immediately. Yeah, done deal. Okay? I’ve actually given this a fair amount of thought, believe it or not.  Doing a bit of headhunting, so to speak, trying to figure out who a worthy successor would be. And then I realised it’s you. It’s always been you. . I thought there’d be a legal issue, but actually I’m capable of appointing my successor. My successor being you.  Congratulations? Take it, just take it.",Iron Man 2,0.9656
+6,HOWARD STARK,"Everything is achievable through technology. Better living, robust health, and for the first time in human history, the possibility of world peace. So, from all of us here at Stark Industries, I would like to personally introduce you to the City of the Future. Technology holds infinite possibilities for mankind,  and will one day rid society of all its ills. Soon technology will affect the way you live your life every day. No more tedious work, leaving more time for leisure activities and enjoying the sweet life. The Stark Expo. Welcome.",Iron Man 2,0.9628
+7,JUSTIN HAMMER,"This is not what I wanted. Hey, there he is. It’s the bird man. Now you like the bird. Is that right? Is that your bird? I’m confused. You said it wasn’t, but now it looks like you’re the best of pals. You love that bird, don’t you? You know what? Take the bird.",Iron Man 2,0.9578
+8,PEPPER POTTS,"Unbelievable! Thank you so much. Tony, we all thank you so much for such a wonderful night. And we’re gonna say good night now, and thank you all for coming.",Iron Man 2,0.9348
+9,HOWARD STARK,"Everything is achievable through technology. Better living, robust heath,  and for the first time in human history, the possibility of world peace. I’m Howard Stark, and everything you’ll need for the future can be found right here. City of the Future? City of Tomorrow? City of… I’m Howard Stark and everything you’ll need in the future can be found right here. So, from all of us at Stark Industries, I would like to personally… Tony, what are you doing back there? What is that?  Put that back. Put it back where you got it from. Where’s your mother? Maria? Go on. Go, go, go, go.",Iron Man 2,0.9268
+10,TONY STARK,"My bond is with the people. And I will serve this great nation at the pleasure of myself. If there’s one thing I’ve proven it’s that you can count on me to pleasure myself. Wake up, Daddy’s home.",Iron Man 2,0.9228
+11,JUSTIN HAMMER,"Tony and I… Tony… I love Tony Stark. Tony loves me. We’re not competitors. Him being out of the picture created tremendous opportunities for Hammer Industries, you know? Everything that Tony and I do…",Iron Man 2,0.91
+12,JUSTIN HAMMER,"Oh, yes! Oh, yes, yes, yes. Is it my birthday? You got it. What did you do? What did you do? Is this what I think it is?",Iron Man 2,0.9012
+13,JUSTIN HAMMER,"Yeah? Hey, fabulous! I love it. Hey, this is our guy. Didn’t I tell you? I had a feeling.",Iron Man 2,0.899
+14,JARVIS,"Welcome home, sir. Congratulations on the opening ceremonies. They were such a success, as was your Senate hearing. And may I say how refreshing it is to finally see you in a video with your clothing on, sir.",Iron Man 2,0.891
+15,TONY STARK,"Pretty decent tech. Cycles per second were a little low. You could have doubled up your rotations. You focused the repulsor energy through ionised plasma channels. It’s effective. Not very efficient. But it’s a passable knock-off. I don’t get it. A little fine tuning you could have made a solid pay check. You could have sold it to North Korea, China, Iran, or gone onto the black market. You look like you got friends in low places.",Iron Man 2,0.8903
+16,TONY STARK,"He was cold, he was calculating. He never told me he loved me. He never even told me he liked me, so it’s a little tough for me to digest when you’re telling me he said the whole future was riding on me and he’s passing it down. I don’t get that. You’re talking about a guy who’s happiest day was when he shipped me off to boarding school.",Iron Man 2,0.8867
+17,SENATOR STERN,"It is my honour to be here today to present these distinguished awards to Lieutenant Colonel James Rhodes and Mr Tony Stark, who is, of course, a national treasure.  Thank you Lieutenant Colonel, for such and exceptionally distinguished performance. You deserve this.",Iron Man 2,0.886
+18,TONY STARK,"Pepper Potts. She’s right. The party’s over. Then again, the party was over for me, like, an hour and a half ago. The after-party starts in 15 minutes. And if anybody, Pepper, doesn’t like it, there’s the door.  Yeah!  Hit!  Pull!  I think she wants the Gallagher!",Iron Man 2,0.877
+19,TONY STARK,"You know, I wish I could believe that. I really do. But you’ve gotta trust me. Contrary to popular belief, I know exactly what I’m doing.",Iron Man 2,0.875
+20,JUSTIN HAMMER,What? Drone better? Why is drone better? Why is drone better?,Iron Man 2,0.8645
+21,JUSTIN HAMMER,"Well, listen, even if it’s not the bird, I mean, this is a gorgeous bird. I mean, you know, look, don’t get so attached to things. Learn to let go. Wait a minute. Jack, what is that? Is that… That’s not a helmet. What is that?  Ivan… What’s this? Jack. Is that a helmet? It doesn’t look like a helmet to me. How… How are you supposed to get a head in there? Jack, could you put your head in there?",Iron Man 2,0.8611
+22,JUSTIN HAMMER,"Take his pillows too. Both of them. And his shoes. Take his shoes. I took your stuff. How does that make you feel? Do you feel bad? Good. ‘Cause that’s how I feel! We had a contract. I saved your life and you give me suits. That was our deal. And you did not deliver. I don’t know if you’re a genius or a fraud. I don’t know what you are. Something really, really great fell into my lap. And if it hadn’t, I’d be at your mercy tonight. Now I have a piece of Stark tech that I pimped out myself. And now your overpriced paperweights and gonna look like a backdrop to my demonstration. Do you dig what I’m getting at here?",Iron Man 2,0.852
+23,HOWARD STARK,"So, from all of us at Stark Industries, I’d like to personally show you my ass. I’d like to… I can’t… This is… I can’t… We have this, don’t we? This is a ridiculous way… Everything  is achievable through technology.  Tony. You’re too young to understand this right now, so I thought I would put it on film for you. I built this for you. And someday you’ll realise that it represents a whole lot more than just people’s inventions. It represents my life’s work. This is the key to the future. I’m limited by the technology of my time, but one day you’ll figure this out. And when you do, you will change the world. What is and always will be my greatest creation is you.",Iron Man 2,0.8462
+24,TONY STARK,"I don’t want to hear it Jarvis.  That tastes like coconut. And metal. Oh wow, yeah!",Iron Man 2,0.8439
+25,JUSTIN HAMMER,"Ivan, you know, I like you. I got you the bird. You said, “No problem.” That’s what you said to me. You said, “No problem.” Now I need suits. The government wants suits. Like Iron Man. You understand? That’s what the people want. That’s what’s gonna make them happy.",Iron Man 2,0.8402
+26,PEPPER POTTS,"Yes, and I’ve got three excellent potential candidates. They’re lined up and ready to meet you.",Iron Man 2,0.836
+27,TONY STARK,"I missed you too. Blow something up? I already did that. I’m not saying that the world is enjoying its longest period of uninterrupted peace in years because of me. I’m not saying that from the ashes of captivity, never has a greater phoenix metaphor been personified in human history. I’m not saying that Uncle Sam can kick back on a lawn chair, sipping on an iced tea because I haven’t come across anyone who’s man enough to go toe-to-toe with me on my best day.",Iron Man 2,0.8312
+28,TONY STARK,"I thought I was ogling her.  Wow. Very, very impressive individual.",Iron Man 2,0.8258
+29,JUSTIN HAMMER,"Well… You’re good. You really blasted in past the firewall there. Let me show you where you’re gonna be working primarily. Go ahead, take a look. Get a good look at that. That’s something, isn’t it? You know, those are really just for show and tell. They’re $125.7 million a pop, so… Wait!  Oh gosh. Jesus Christ. Get somebody up here. That’s where the pilot goes. I’m having a tough time finding volunteers. I’ll take care of that, just leave it.",Iron Man 2,0.8221
+30,JUSTIN HAMMER,"I’m trying to help here. I get it. I see what you’re doing. You’re trying to pin this on me, huh? That’s good. That’s good. You’re starting to think like a CEO, taking out the competition. I like that. You think you’re making a problem for me?  I’m gonna make a problem for you. I’m gonna be seeing you again real soon.",Iron Man 2,0.8156
+31,TONY STARK,"Yeah, but maybe that’s why it’s the best time. ‘Cause then we can…",Iron Man 2,0.8126
+32,PHIL COULSON,Something like that. Good luck.,Iron Man 2,0.8126
+33,NATASHA ROMANOFF,Reboot complete  You got your best friend back.,Iron Man 2,0.8126
+34,PEPPER POTTS,"Yes, but the fundamentals of the company are still very, very strong despite the events in Monaco.",Iron Man 2,0.7996
+35,JARVIS,"Congratulations sir. You have created a new element.  Sir, the reactor has accepted the modified core. I will begin running diagnostics.",Iron Man 2,0.7906
+36,TONY STARK,Mute. He should be giving me a medal. That’s the truth.,Iron Man 2,0.7783
+37,TONY STARK,It’s a great place to be healthy.,Iron Man 2,0.7783
+38,TONY STARK,"Well, then, clearly you knew my dad better than I did.",Iron Man 2,0.7717
+39,NATASHA ROMANOFF,Well done on the new chest piece. I am reading significant higher output and your vitals all look promising.,Iron Man 2,0.7717
+40,TONY STARK,"Please. First thing, I need a little bodywork. I’ll put in a little time at the lab. If we could send one of your goon squad down to The Coffee Bean, Cross Creek, for a Starbucks run, or something like that, that’d be nice.",Iron Man 2,0.765
+41,TONY STARK,"Hey, the oracle of Oracle. What a pleasure. Nice to see you.",Iron Man 2,0.7579
+42,TONY STARK,"It was excellent. Boy, it’s nice to see you.",Iron Man 2,0.7579
+43,PEPPER POTTS,"You’re out of control, okay? Trust me on this, okay?",Iron Man 2,0.755
+44,SENATOR STERN,"With all due respect, Colonel, I understand. And if you could just narrate those for us, we’d be very grateful. Let’s have the images.",Iron Man 2,0.7501
+45,JUSTIN HAMMER,"What do you mean? That’s the bird. This is the bird. Yeah, pulled a lot of strings to get this bird. This is a great bird.",Iron Man 2,0.743
+46,TONY STARK,My phone privilege is reinstated. Lovely. Coulson. How’s the Land of Enchantment?,Iron Man 2,0.743
+47,TONY STARK,"“Personality overview. Mr Stark displays compulsive behaviour.” In my own defence, that was last week. “Prone to self-destructive tendencies.” I was dying. I mean, please. Aren’t we all? “Textbook narcissism”? Agreed. Okay, here it is. “Recruitment assessment for Avenger Initiative. Iron Man? Yes.” I gotta think about it.",Iron Man 2,0.7383
+48,JAMES RHODES,"Intelligence suggests that the devices seen in these photos are, in fact, attempts at making manned copies of Mr Stark’s suit. This has been corroborated by our allies and local intelligence on the ground… … indicating that these suits are quite possibly, at this moment, operational.",Iron Man 2,0.7351
+49,TONY STARK,"Trust me, I know. I’m good at this stuff. I’ve been looking for a suitable replacement for palladium. I’ve tried every combination, every permutation of every known element.",Iron Man 2,0.7351
+50,PEPPER POTTS,Thank you Happy.,Iron Man 2,0.7351
+51,JAMES RHODES,"Yeah, yeah. Nice.",Iron Man 2,0.7351
+52,TONY STARK,"You’re good. Jarvis, could you kindly Vac-U-Form a digital wire frame? I need a manipulatable projection.",Iron Man 2,0.7269
+53,TONY STARK,"You can’t afford me.  Then again, I will waive my customary retainer in exchange for a small favour. Rhodey and I are being honoured in Washington and we need a presenter.",Iron Man 2,0.7269
+54,PEPPER POTTS,"Oh, my God! Happy.",Iron Man 2,0.7263
+55,JUSTIN HAMMER,"This is where we do it. This is my humble abode. You can work in absolute peace. Must be fun to be dead, right? No pressure. Here they are. I’m very excited. They’re combat-ready. I may have done a few miscalculations and rushed the prototype into production. Sue me, I’m enthusiastic. Go ahead, take a look around.  You don’t wanna do that. You’ll be able to access that as soon as we generate some encrypted pass codes. Can we generate some encrypted pass codes? Get some of those encrypted pass codes, Jack. Never mind, I… Wow. Okay. Good stuff.",Iron Man 2,0.7254
+56,TONY STARK,"Wow. Yeah, I’d say most countries, five, ten years away. Hammer Industries, twenty.",Iron Man 2,0.7184
+57,GENERAL,"Good work, Colonel. You’ve made your country proud.",Iron Man 2,0.7184
+58,PHIL COULSON,Enjoy your evening’s entertainment.,Iron Man 2,0.7184
+59,TONY STARK,"Do you know how short life is? And if I never got to express… And by the way, this is somewhat revelatory to me. And I don’t care… I mean, I care. It would be nice. I’m not expecting you to… Look, here’s what I’m trying to say. I’m just gonna say it.",Iron Man 2,0.7184
+60,HAPPY HOGAN,"What, like, the Tae Bo? Booty Boot Camp? Crunch? Something like that?",Iron Man 2,0.7149
+61,CHRISTINE EVERHART,"Yeah, yeah, yeah. You know, can you excuse me just one second?",Iron Man 2,0.7096
+62,JUSTIN HAMMER,I’d like to point out that that test pilot survived.,Iron Man 2,0.7003
+63,PERSON,Good evening Good evening,Iron Man 2,0.7003
+64,NATASHA ROMANOFF,"Hey, hey. Save it for the honeymoon. You got incoming Tony. Looks like the fight’s coming to you.",Iron Man 2,0.6908
+65,JAMES RHODES,"Yeah, thanks. Tony, look, I’m sorry, okay?",Iron Man 2,0.6908
+66,PEPPER POTTS,"Okay, get him. I need Happy.",Iron Man 2,0.6808
+67,NICK FURY,"You’ve been very busy. You made your girl your CEO, you’re giving away all your stuff. You let your friend fly away with your suit. Now, if I didn’t know better…",Iron Man 2,0.6808
+68,TONY STARK,"Yeah, well, me too and it worked. Hey, I’m playing for the home team Coulson, you and all your Fabulous Furry Freak Brothers. Now, are you gonna let me work or break my balls?",Iron Man 2,0.6808
+69,JAMES RHODES,This ain’t gonna be good.  I got something special for this guy. I’m gonna bust his bunker with the Ex-Wife.,Iron Man 2,0.6808
+70,TONY STARK,"Take it. Take it. I don’t like people handing me things. If you just drop that there, that’d be great.",Iron Man 2,0.6705
+71,WOMAN IN CROWD,I love you Tony!,Iron Man 2,0.6696
+72,TONY STARK,"Can I ask you a question, hypothetically? Bit odd. If this was your last birthday party you were ever gonna have, how would you celebrate it?",Iron Man 2,0.6662
+73,TONY STARK,"Look, that goes without saying, and I’m working on that. But I haven’t been entirely upfront with you, and I just want to try to make good. Can I move this? This is crazy. It’s like a Ferris wheel, going. I’m trying to get some…",Iron Man 2,0.6652
+74,PEPPER POTTS,"Okay, fine. My point is, we have already awarded contracts to the wind farm people.",Iron Man 2,0.6597
+75,NICK FURY,Doesn’t look like it’s gonna be an easy fix.,Iron Man 2,0.6597
+76,IVAN VANKO,I hope you’re ready.,Iron Man 2,0.6597
+77,TONY STARK,"Hey, nice to see you. All right. Thank you. I remember you.",Iron Man 2,0.6486
+78,HAPPY HOGAN,I certainly hope so. Hi.,Iron Man 2,0.6486
+79,TONY STARK,Yes dear?,Iron Man 2,0.6486
+80,TONY STARK,"I’m not a joiner, but I’ll consider Secretary of Defence, if you ask nice. We can amend the hours a little bit.",Iron Man 2,0.6486
+81,TONY STARK,I need you to wear a surgical mask until you’re feeling better. Is that okay?,Iron Man 2,0.6486
+82,TONY STARK,Better security.,Iron Man 2,0.6486
+83,JAMES RHODES,"I’m ready. I’m ready. Go, go, go!",Iron Man 2,0.6476
+84,SENATOR STERN,That is well said Mr Hammer. The committee would now like to invite Lieutenant Colonel James Rhodes to the chamber.,Iron Man 2,0.6369
+85,PEPPER POTTS,"Yes, that will be all, Ms Rushman. Thank you very much.",Iron Man 2,0.6369
+86,JUSTIN HAMMER,"No. The truth is… Why don’t we put that away? The truth is, I’m actually hoping to present something at your Expo.",Iron Man 2,0.6369
+87,TONY STARK,I love you.,Iron Man 2,0.6369
+88,PEPPER POTTS,"No… Burt… Burt… Burt, listen to me. Don’t tell me that we have the best patent lawyers in the country and then not let me pursue this.",Iron Man 2,0.6369
+89,TONY STARK,Great. Just wrapping up here. Hey. You’re the boss.,Iron Man 2,0.6249
+90,TONY STARK,Great. Make it us.,Iron Man 2,0.6249
+91,CHRISTINE EVERHART,This is great.,Iron Man 2,0.6249
+92,CHRISTINE EVERHART,This is great stuff. I’ll be right back.,Iron Man 2,0.6249
+93,TONY STARK,Great. Pepper?,Iron Man 2,0.6249
+94,JUSTIN HAMMER,Looking gorgeous.,Iron Man 2,0.6124
+95,TONY STARK,You’re out of control gorgeous.,Iron Man 2,0.6124
+96,SENATOR STERN,You’ve been a delight.,Iron Man 2,0.5994
+97,ELON MUSK,"Hi, Pepper. Congratulations on the promotion.",Iron Man 2,0.5994
+98,JUSTIN HAMMER,Congratulations.,Iron Man 2,0.5994
+99,JUSTIN HAMMER,"Hey, hey, het. Special delivery. Candygram.  I brought you something. Oh yeah.  We got you the bird, pal.",Iron Man 2,0.5994
+100,JACK,It’s a beautiful bird.,Iron Man 2,0.5994
+101,NICK FURY,"No. Howard said the arc reactor was the stepping stone to something greater. He was about to kick off an energy race that was gonna dwarf the arms race. He was on to something big, something so big that it was gonna make the nuclear reactor look like a triple-A battery.",Iron Man 2,0.5994
+102,TONY STARK,"Thank you. That’s all I wanted to hear. Partner. They’re coming in hot, any second. What’s the play?",Iron Man 2,0.5994
+103,TONY STARK,I got this.  Rhodes. I got an idea. You want to be a hero?,Iron Man 2,0.5994
+104,TONY STARK,Wow. Look at that. That’s modern art. That’s going up.,Iron Man 2,0.5859
+105,TONY STARK,That’s the amazing thing.,Iron Man 2,0.5859
+106,TONY STARK,"You’re CEO. Better security measures. God, it’s embarrassing.  First vacation in two years.",Iron Man 2,0.5859
+107,MAJOR ALLEN,Wow.,Iron Man 2,0.5859
+108,NICK FURY,"Okay, you’re good, right?",Iron Man 2,0.5859
+109,JAMES RHODES,Wow. I think you should lead with that next time.,Iron Man 2,0.5859
+110,NICK FURY,That’s not looking so good.,Iron Man 2,0.5777
+111,TONY STARK,Hello. It would be a pleasure.,Iron Man 2,0.5719
+112,TONY STARK,Excellent idea. I just figured this out. You run the company.,Iron Man 2,0.5719
+113,TONY STARK,Perfect. I’ll be there at 11:00.,Iron Man 2,0.5719
+114,ELON MUSK,"Thank you. Yeah, I’ve got an idea for an electric jet.",Iron Man 2,0.5719
+115,PEPPER POTTS,Where’s Happy?,Iron Man 2,0.5719
+116,PEPPER POTTS,You’re not going to be happy about this.,Iron Man 2,0.5719
+117,NATASHA ROMANOFF,We’ve disabled all communications. No contact with the outside world. Good luck.,Iron Man 2,0.5719
+118,TONY STARK,"Yeah. That was, like, three years ago. Where have you been?",Iron Man 2,0.5719
+119,PEPPER POTTS,A retreat? During a time like this?,Iron Man 2,0.5661
+120,TONY STARK,You look fantastic.,Iron Man 2,0.5574
+121,TONY STARK,"Elon, how’s it going. Those Merlin engines are fantastic.",Iron Man 2,0.5574
+122,NATASHA ROMANOFF,"Well, according to Mr Stark’s database security guidelines, there are redundancies to prevent unauthorised usage.",Iron Man 2,0.5574
+123,TONY STARK,Fantastic. Land of Enchantment.,Iron Man 2,0.5574
+124,JUSTIN HAMMER,"Please, please, go away. Go away. I’ve got this handled.",Iron Man 2,0.5574
+125,PEPPER POTTS,"Well, with you it’s like dog years.",Iron Man 2,0.5574
+126,PEPPER POTTS,It was very impressive.,Iron Man 2,0.5563
+127,HAPPY HOGAN,Make sure you join me…,Iron Man 2,0.5423
+128,IVAN VANKO,People make problem. Trust me. Drone better.,Iron Man 2,0.5423
+129,PEPPER POTTS,"Well, then, tell the President to sign an order. We’ll talk about it at the Expo.  Hammer’s giving some presentation tomorrow evening. Will Tony Stark be there?",Iron Man 2,0.5423
+130,TONY STARK,I’m on happy time.  Sorry.,Iron Man 2,0.5267
+131,TONY STARK,"Well, if you invent something that works, I’ll make sure I get you a slot.",Iron Man 2,0.5267
+132,IVAN VANKO,"Did I? If you can make God bleed, the people will cease to believe in him. And there will be blood in the water. And the sharks will come. The truth, all I have to do is sit here and watch as the world will consume you.",Iron Man 2,0.5267
+133,NEWS READER,"But his continuing erratic behaviour may lead many people to ask themselves, “Can this man still protect us?”",Iron Man 2,0.5267
+134,TONY STARK,"Yeah, yeah. Let’s talk clean-up.",Iron Man 2,0.5267
+135,JAMES RHODES,"Thank you. You too. Listen, my car got taken out in the explosion, so I’m gonna have to hang on to your suit for a minute, okay?",Iron Man 2,0.5267
+136,JAMES RHODES,"Tony, you gotta get upstairs and get on top of this situation right now. Listen. I’ve been on the phone with the National Guard all day, trying to talk them out of rolling tanks up the PCH, knocking down your front door and taking these. They’re gonna take your suits, Tony, okay? They’re sick of the games. You said nobody else would possess this technology for 20 years. Well, guess what? Somebody else had it yesterday. It’s not theoretical anymore. Are you listening to me? Are you okay?",Iron Man 2,0.5204
+137,TONY STARK,"Oh, God, are gonna steal my kidney and sell it?  Could you please not do anything awful for five seconds? What did she just do to me?",Iron Man 2,0.4973
+138,PEPPER POTTS,God. God.,Iron Man 2,0.4939
+139,JAMES RHODES,Put you hand down.,Iron Man 2,0.4939
+140,TONY STARK,I could really use a sidekick. Put your hand up.,Iron Man 2,0.4939
+141,IVAN VANKO,"Very good, man.",Iron Man 2,0.4927
+142,JUSTIN HAMMER,"Very good, man.",Iron Man 2,0.4927
+143,IVAN VANKO,"Very good, man.",Iron Man 2,0.4927
+144,IVAN VANKO,You told me double cycle’s more power. Good advice.,Iron Man 2,0.4902
+145,TONY STARK,Give me the case! Please! Come on!,Iron Man 2,0.4898
+146,TONY STARK,Been a while since I was up here in front of you. Maybe I’ll do us all a favour and just stick to the cards. There’s been some speculation that I was somehow involved in the events that occurred on the freeway and on the rooftop…,Iron Man 2,0.4767
+147,NEWS REPORTER,We trusted that he would look out for us.,Iron Man 2,0.4767
+148,TONY STARK,"The point is, you’re welcome, I guess",Iron Man 2,0.4588
+149,JUSTIN HAMMER,"Well, okay. Nothing’s impossible. I could… Are we talking about… Is this a bird back in Russia?",Iron Man 2,0.4588
+150,TONY STARK,Just my luck. Where’s the staff here?,Iron Man 2,0.4588
+151,JAMES RHODES,"Yes it is. Hammer, I want to know what you’re gonna do for us.",Iron Man 2,0.4588
+152,NATASHA ROMANOFF,You want to help? Keep the car running.,Iron Man 2,0.4588
+153,TONY STARK,"Larry! Larry. Yes, my people, my people.",Iron Man 2,0.4574
+154,TONY STARK,"I don’t know where you get your information, but he wasn’t my biggest fan.",Iron Man 2,0.4497
+155,MARSHAL,Pleased to meet you Tony.,Iron Man 2,0.4404
+156,TONY STARK,"Hold on a second buddy. Let me see something here.  Boy, I’m good. I commandeered your screens. I need them. Time for a little transparency. Now, let’s see what’s really going on.",Iron Man 2,0.4404
+157,TONY STARK,That was good.,Iron Man 2,0.4404
+158,TONY STARK,You don’t know better. I didn’t give it to him. He took it.,Iron Man 2,0.4404
+159,IVAN VANKO,Drone better.,Iron Man 2,0.4404
+160,GENERAL,Good. Get Hammer down here to weaponise it.,Iron Man 2,0.4404
+161,TONY STARK,Relax.,Iron Man 2,0.4404
+162,TONY STARK,"I’m good, Hap.",Iron Man 2,0.4404
+163,TONY STARK,Bye. Thanks.,Iron Man 2,0.4404
+164,TONY STARK,That was easy.,Iron Man 2,0.4404
+165,TONY STARK,Sounds good. Let’s get together and hash it out.,Iron Man 2,0.4404
+166,IVAN VANKO,Good to be back.,Iron Man 2,0.4404
+167,TONY STARK,"Listen. Hey, hey. You deserve better.",Iron Man 2,0.4404
+168,JUSTIN HAMMER,"Yes, I do. In fact, if your guy hadn’t showed up, this wouldn’t be happening. So, please, now go away. Thank you  Listen, we got to get these bitches out of here. What?",Iron Man 2,0.4391
+169,JUSTIN HAMMER,"Try to put your head in there. Go ahead. Try to put your head in there.  See, Ivan? He can’t put his head in there. That’s… That’s not a helmet. It’s a head. I need to put a guy in there. I need to fit a person in that suit. You understand?",Iron Man 2,0.4329
+170,HAPPY HOGAN,He likes the badge.,Iron Man 2,0.4215
+171,TONY STARK,"Gold face, brown hand. The Jaeger. I’ll give that a look. Bring them over.  I’ll take that. Why don’t you…  I gotta say it. It’s hard to get a read on you. Where are you from?",Iron Man 2,0.4215
+172,IVAN VANKO,"Now, the true history of Stark name will be written.",Iron Man 2,0.4215
+173,TONY STARK,Nice work kid.,Iron Man 2,0.4215
+174,TONY STARK,"You’ve taken such good care of me. I’ve been in a tough spot, but you got me through it, so… Right?",Iron Man 2,0.4215
+175,TONY STARK,"Boy, you’re good. You are mind-blowingly duplicitous. How do you do it? You just tear things… You’re a triple imposter. I’ve never seen anything like you. Is there anything real about you? Do you even speak Latin? Which means? Wait. What? What did you just say?",Iron Man 2,0.4118
+176,TONY STARK,Yes,Iron Man 2,0.4019
+177,SENATOR STERN,"Yes, sir.",Iron Man 2,0.4019
+178,PEPPER POTTS,"Yes, from a managerial standpoint.",Iron Man 2,0.4019
+179,TONY STARK,Yeah. Don’t say “wind farm.” I’m already feeling gassy.,Iron Man 2,0.4019
+180,TONY STARK,"If it pleases the court, which it does.",Iron Man 2,0.4019
+181,NATASHA ROMANOFF,"I have, yes.",Iron Man 2,0.4019
+182,CHRISTINE EVERHART,Hi. Yes.,Iron Man 2,0.4019
+183,PEPPER POTTS,Yes.,Iron Man 2,0.4019
+184,TONY STARK,"Yes, roughly.",Iron Man 2,0.4019
+185,CHRISTINE EVERHART,"Yes, what is it?",Iron Man 2,0.4019
+186,TONY STARK,Yes?,Iron Man 2,0.4019
+187,JUSTIN HAMMER,"I actually have a slot this year. Yes, I do.",Iron Man 2,0.4019
+188,NATASHA ROMANOFF,"Yes, Ms Potts?",Iron Man 2,0.4019
+189,NATASHA ROMANOFF,Absolutely. I understand. How can I help you?,Iron Man 2,0.4019
+190,PEPPER POTTS,"Oh, yes.",Iron Man 2,0.4019
+191,JUSTIN HAMMER,Yes?,Iron Man 2,0.4019
+192,NATASHA ROMANOFF,"Yes, of course.  The AP wants a quote.",Iron Man 2,0.4019
+193,PEPPER POTTS,"Yes, but….",Iron Man 2,0.4019
+194,PEPPER POTTS,Does this guy know how to throw a party or what?,Iron Man 2,0.4019
+195,GOLDSTEIN,"Yes, Mr Stark?",Iron Man 2,0.4019
+196,JAMES RHODES,"Yes, General, but…",Iron Man 2,0.4019
+197,JAMES RHODES,Yes sir.,Iron Man 2,0.4019
+198,MAJOR ALLEN,"Yes, sir.",Iron Man 2,0.4019
+199,PEPPER POTTS,"Yes, it does.",Iron Man 2,0.4019
+200,TONY STARK,Yes.,Iron Man 2,0.4019
+201,JARVIS,Yes sir.,Iron Man 2,0.4019
+202,TONY STARK,…when you were attempting to…That’s not what I heard. What’s the difference between “hold and “cancelled”? The truth?,Iron Man 2,0.3939
+203,IVAN VANKO,My father is the reason you’re alive.,Iron Man 2,0.3818
+204,JUSTIN HAMMER,"Well, long term, I want them to put me in the Pentagon for the next 25 years. I want to make Iron Man look like an antique. I wanna go to that Stark Expo, I wanna take a dump in Tony Stark’s front yard. You know what I’m talking about?",Iron Man 2,0.3818
+205,MAJOR ALLEN,Clear the area.,Iron Man 2,0.3818
+206,TONY STARK,I suggest you apologise.,Iron Man 2,0.3818
+207,JUSTIN HAMMER,"These drones better steal the show, Ivan. You understand? Better rock my world, Ivan.",Iron Man 2,0.3818
+208,PEPPER POTTS,You didn’t come here to apologise?,Iron Man 2,0.3818
+209,JAMES RHODES,Vanko’s alive?,Iron Man 2,0.3818
+210,PEPPER POTTS,The notary’s here! Can you please come sign the transfer paperwork?,Iron Man 2,0.3802
+211,TONY STARK,Yeah? You found me. What are you up to later?,Iron Man 2,0.3736
+212,PEPPER POTTS,Is this a joke? What are you thinking?,Iron Man 2,0.3736
+213,JUSTIN HAMMER,"I don’t know if you know this, but I don’t speak Russian! I’m gonna leave now. I’m gonna go to the Expo. Maybe I’ll even get laid. You see these guys? They’re your babysitters. They are not to be trifled with. When I get back, we’re gonna renegotiate the terms of our agreement. And you’re gonna make good on our arrangement because if you don’t, you’re gonna be exactly what you were when I found you, a dead man. You got that? Maybe you can watch me on TV.",Iron Man 2,0.372
+214,NICK FURY,"I don’t think I want you looking at that. I’m not sure it pertains to you anymore. Now this on the other hand, is Agent Romanoff’s assessment of you. Read it.",Iron Man 2,0.3691
+215,TONY STARK,"No, it was perfect.",Iron Man 2,0.3612
+216,TONY STARK,Irish. I like it.,Iron Man 2,0.3612
+217,HAPPY HOGAN,He doesn’t like to be handed things.,Iron Man 2,0.3612
+218,MARSHAL,You still like it?,Iron Man 2,0.3612
+219,SENATOR STERN,"Just read it, Colonel. I do. Thank you.",Iron Man 2,0.3612
+220,SENATOR STERN,"I’d like to go on and show, if I may, the imagery that’s connected to your report.",Iron Man 2,0.3612
+221,TONY STARK,I don’t have time to meet. I need someone now. I feel like it’s her.,Iron Man 2,0.3612
+222,TONY STARK,Looks like a TKO to me.,Iron Man 2,0.3612
+223,NATASHA ROMANOFF,"Why, thank you very much.",Iron Man 2,0.3612
+224,PEPPER POTTS,Thank you very much.,Iron Man 2,0.3612
+225,PEPPER POTTS,Thank you very much.,Iron Man 2,0.3612
+226,CHRISTINE EVERHART,Thank you.,Iron Man 2,0.3612
+227,NATASHA ROMANOFF,Your corner table is ready.,Iron Man 2,0.3612
+228,NATASHA ROMANOFF,"Do you know which watch you’d like to wear tonight, Mr Stark?",Iron Man 2,0.3612
+229,TONY STARK,"You know, the question I get asked most often is, “Tony, how do you go to the bathroom in the suit?” Just like that.",Iron Man 2,0.3612
+230,JAMES RHODES,Thank you sir.,Iron Man 2,0.3612
+231,TONY STARK,I would like to be. Got a minute?,Iron Man 2,0.3612
+232,PEPPER POTTS,Thank you.,Iron Man 2,0.3612
+233,TONY STARK,Thank Dad.,Iron Man 2,0.3612
+234,TONY STARK,"Get ready for a major remodel, fellas. We’re back in hardware mode.",Iron Man 2,0.3612
+235,IVAN VANKO,The drone is not going to be ready.,Iron Man 2,0.3612
+236,TONY STARK,"Thank you very much, Agent Romanoff.",Iron Man 2,0.3612
+237,PEPPER POTTS,Thank you.,Iron Man 2,0.3612
+238,PEPPER POTTS,Thank you for understanding.,Iron Man 2,0.3612
+239,PEPPER POTTS,"I mean, it’s like the Presidency.",Iron Man 2,0.3612
+240,NICK FURY,Which leads us to believe at this juncture we’d only like to use you as a consultant.,Iron Man 2,0.3612
+241,JAMES RHODES,Thank you sir.,Iron Man 2,0.3612
+242,PEPPER POTTS,It was very well done.,Iron Man 2,0.3384
+243,PEPPER POTTS,Oh my God!,Iron Man 2,0.3382
+244,TONY STARK,It’s just me you don’t care for. No? Nothing?,Iron Man 2,0.3313
+245,TONY STARK,"What did you just say? You’re done? That’s surprising. No, it’s not surprising. I get it. You don’t have to make excuses.",Iron Man 2,0.3313
+246,SENATOR STERN,"Mr Stark, could we pick up now where we left off? Mr Stark. Please.",Iron Man 2,0.3182
+247,TONY STARK,"Please, if your priority was actually the well-being of the American citizen…",Iron Man 2,0.3182
+248,PEPPER POTTS,I promise this is the only time I will ask you to sign over your company.,Iron Man 2,0.3182
+249,PEPPER POTTS,"Oh, please.",Iron Man 2,0.3182
+250,PEPPER POTTS,Sure.,Iron Man 2,0.3182
+251,TONY STARK,I was attacked. We need better security.,Iron Man 2,0.3182
+252,TONY STARK,Calm down.,Iron Man 2,0.3182
+253,NEWS REPORTER,"When Mr Stark announced he was indeed Iron Man, he was making a promise to America.",Iron Man 2,0.3182
+254,TONY STARK,"It’s exactly what I need to make this work. Lift the coil. Go, go. Put your knees into it. There you go. And… Drop it. Drop it.  Perfectly level. I’m busy. What do you want?",Iron Man 2,0.3182
+255,PEPPER POTTS,"I need NYPD, please.",Iron Man 2,0.3182
+256,PEPPER POTTS,Oh please.,Iron Man 2,0.3182
+257,JAMES RHODES,It was my understanding that I was going to be testifying in a much more comprehensive and detailed manner.,Iron Man 2,0.3167
+258,TONY STARK,"Yeah, I have a peeve.",Iron Man 2,0.296
+259,TONY STARK,Yep.  How far are we from D.C.?,Iron Man 2,0.296
+260,TONY STARK,I’m gonna put this up right now. This is vital.,Iron Man 2,0.296
+261,PEPPER POTTS,"Yeah, I’m trying to run the company.",Iron Man 2,0.296
+262,HAPPY HOGAN,Yeah.,Iron Man 2,0.296
+263,ELON MUSK,Yeah.,Iron Man 2,0.296
+264,JUSTIN HAMMER,"We kid, yeah. We kid. We’re kidders.",Iron Man 2,0.296
+265,HAPPY HOGAN,Yeah.,Iron Man 2,0.296
+266,TONY STARK,Yeah. Where do you think I’ve been for three hours?,Iron Man 2,0.296
+267,TONY STARK,"Yeah, I should get to my desk.  See that cigar box?",Iron Man 2,0.296
+268,JAMES RHODES,Yeah.,Iron Man 2,0.296
+269,TONY STARK,Yeah. ‘Cause it’s…,Iron Man 2,0.296
+270,JAMES RHODES,Yeah. Let’s take it inside.,Iron Man 2,0.296
+271,TONY STARK,I told you I don’t wanna join your super-secret boy band.,Iron Man 2,0.296
+272,TONY STARK,Yeah.,Iron Man 2,0.296
+273,TONY STARK,"I think I got it, yeah.",Iron Man 2,0.296
+274,TONY STARK,That was rhetorical. Just show me.  What does that look like to you Jarvis? Not unlike an atom. In which case the nucleus would be here. Highlight the unisphere. Lose the footpaths. Get rid of them.,Iron Man 2,0.296
+275,TONY STARK,"Yeah, more than you know.",Iron Man 2,0.296
+276,JUSTIN HAMMER,"Hey, all right. Yeah.",Iron Man 2,0.296
+277,JAMES RHODES,"Yeah, I tried that. I got tossed around your house, remember?",Iron Man 2,0.296
+278,JUSTIN HAMMER,Yeah.,Iron Man 2,0.296
+279,JAMES RHODES,Yeah.,Iron Man 2,0.296
+280,POLICE OFFICER,Yeah. Are you coming with us?,Iron Man 2,0.296
+281,JAMES RHODES,Yeah.,Iron Man 2,0.296
+282,TONY STARK,Yep.,Iron Man 2,0.296
+283,TONY STARK,Yeah.,Iron Man 2,0.296
+284,PEPPER POTTS,Yeah.,Iron Man 2,0.296
+285,TONY STARK,"Yeah, so we’re not…",Iron Man 2,0.296
+286,JAMES RHODES,"Very well. “As he does not operate within any definable branch of government, Iron Man presents a potential threat to the security of both the nation and to her interests.” I did however, go on to summarise that the benefits of Iron Man far outweigh three liabilities and that it would be in our interest…",Iron Man 2,0.2944
+287,TONY STARK,You! I swear to God I’ll dismantle you. I’ll soak your motherboard. I’ll turn you into a wine rack. How many ounce a day of this gobbledegook am I supposed to drink?,Iron Man 2,0.2942
+288,NATASHA ROMANOFF,Absolutely.  I’m surprised you can keep your mouth shut.,Iron Man 2,0.2911
+289,NICK FURY,"Are you that guy? Are you? ‘Cause if you are, then you can solve the riddle of your heart.",Iron Man 2,0.2869
+290,TONY STARK,"God, they’re running out quick.",Iron Man 2,0.2732
+291,PEPPER POTTS,"Right. Well, she did quite a spread on Tony last year.",Iron Man 2,0.2732
+292,TONY STARK,And she wrote a story as well.,Iron Man 2,0.2732
+293,TONY STARK,"Well, what’s the use of having…",Iron Man 2,0.2732
+294,TONY STARK,"Well, I never heard of him.",Iron Man 2,0.2732
+295,PEPPER POTTS,"Well, I think as the CEO I need to show up.",Iron Man 2,0.2732
+296,TONY STARK,"Just a ride. Well, I’m just saying, to recharge our batteries and figure it all out.",Iron Man 2,0.2732
+297,NICK FURY,"Well, I’m here to tell you, you haven’t tried them all.",Iron Man 2,0.2732
+298,JUSTIN HAMMER,"What am I going to do for you? Well, the first thing I’m gonna do for you is I’m gonna upgrade your software. And then, second, I think I should…",Iron Man 2,0.2732
+299,JUSTIN HAMMER,"Well, then call their… Call their cells.",Iron Man 2,0.2732
+300,NATASHA ROMANOFF,Fine. You want me to drive?,Iron Man 2,0.2732
+301,PEPPER POTTS,"Well, choose one and focus on that.",Iron Man 2,0.2732
+302,PEPPER POTTS,"Well, have city buses there to ferry people to operating lines.",Iron Man 2,0.2732
+303,PEPPER POTTS,Oh my God. I can’t take this anymore.,Iron Man 2,0.2732
+304,PEPPER POTTS,"No, I wasn’t making an excuse. I’m actually very justified.",Iron Man 2,0.2716
+305,TONY STARK,"I don’t want to go home. At all. Let’s cancel my birthday party and… We’re in Europe. Let’s go to Venice, Cipriani. Remember?",Iron Man 2,0.25
+306,HAPPY HOGAN,Okay,Iron Man 2,0.2263
+307,TONY STARK,Okay.,Iron Man 2,0.2263
+308,NATASHA ROMANOFF,Just… I need your impression.,Iron Man 2,0.2263
+309,NATASHA ROMANOFF,"We have one photographer from the ACM, if you don’t mind. Okay?",Iron Man 2,0.2263
+310,NATASHA ROMANOFF,Okay.,Iron Man 2,0.2263
+311,TONY STARK,Are you okay?,Iron Man 2,0.2263
+312,TONY STARK,"As CEO, you are entitled to a leave.",Iron Man 2,0.2263
+313,PEPPER POTTS,"I know. I know. I get it. I’m gonna handle it, okay Just let me handle it.",Iron Man 2,0.2263
+314,PEPPER POTTS,"Just send everybody home, okay? It’s time to…",Iron Man 2,0.2263
+315,PEPPER POTTS,"Okay. I’ll take this, you take that",Iron Man 2,0.2263
+316,IVAN VANKO,"Hey, man, everything will be okay.",Iron Man 2,0.2263
+317,TONY STARK,You sound pretty sprightly for a dead guy.,Iron Man 2,0.2263
+318,PEPPER POTTS,Okay. Right away. Right away.  Step aside. Step aside.  Tell me everything you know. Go.,Iron Man 2,0.2263
+319,HAPPY HOGAN,Okay.,Iron Man 2,0.2263
+320,PEPPER POTTS,Are you okay now?,Iron Man 2,0.2263
+321,TONY STARK,You okay?,Iron Man 2,0.2263
+322,JAMES RHODES,No. I should have trusted you more.,Iron Man 2,0.2263
+323,JAMES RHODES,"Well, we want to take the high ground, okay? So let’s put the biggest gun up on that ridge.",Iron Man 2,0.2263
+324,TONY STARK,"Okay, you got a spot. Where’s mine?",Iron Man 2,0.2263
+325,TONY STARK,Yeah. Sorry boss. I can only use it one. It’s a one-off.,Iron Man 2,0.2263
+326,POLICE OFFICER,Okay.,Iron Man 2,0.2263
+327,TONY STARK,I think I did okay.,Iron Man 2,0.2263
+328,TONY STARK,Okay. What about the press? Because you only had the job for a week. That’s gonna seem…,Iron Man 2,0.2263
+329,TONY STARK,"It’s okay, right?",Iron Man 2,0.2263
+330,SENATOR STERN,Do you or do you not possess a specialised weapon?,Iron Man 2,0.2235
+331,SHIELD AGENT,We’ve secured the perimeter but I don’t think we should hold it for too much longer.,Iron Man 2,0.2144
+332,TONY STARK,"Please, this is tough.",Iron Man 2,0.2023
+333,TONY STARK,A company retreat.,Iron Man 2,0.2023
+334,NICK FURY,"Natasha will remain a floater at Stark with her cover intact. You remember Agent Coulson, right?",Iron Man 2,0.2023
+335,TONY STARK,I don’t. It’s fine. I’ll just be a second.,Iron Man 2,0.2023
+336,TONY STARK,"Come on, you just got off the phone. You’re fine. 30 seconds.",Iron Man 2,0.2023
+337,TONY STARK,"I was just driving over here, and I thought I was coming to basically apologise, but I’m not.",Iron Man 2,0.2023
+338,PEPPER POTTS,Fine.,Iron Man 2,0.2023
+339,TONY STARK,Fine. All right. You go up to. I’ll draw them in.,Iron Man 2,0.2023
+340,TONY STARK,It’s good to be back. You missed me?,Iron Man 2,0.1779
+341,TONY STARK,I’ll give them a look. I should cancel the party.,Iron Man 2,0.1779
+342,PEPPER POTTS,Iron Man never stopped protecting us. The events in Monaco proved that.,Iron Man 2,0.1695
+343,JUSTIN HAMMER,A bird? You want a bird?,Iron Man 2,0.168
+344,SENATOR STERN,My priority is to get the Iron Man weapon turned over to the people of the United States of America.,Iron Man 2,0.1531
+345,PEPPER POTTS,"Yeah, but you’re not…",Iron Man 2,0.1531
+346,TONY STARK,Allergic to strawberries. This is progress Pepper. I knew there was a correlation between you and this.,Iron Man 2,0.1531
+347,JAMES RHODES,Yeah. It’s called being a badass.,Iron Man 2,0.1531
+348,TONY STARK,You want it? Take it!,Iron Man 2,0.1511
+349,TONY STARK,"Yes, for the moment, I’m not dying. Thank you.",Iron Man 2,0.1506
+350,MAN,270 at 30 knots. Holding steady at 15000 feet. You are clear for exfiltration over the drop zone,Iron Man 2,0.128
+351,TONY STARK,"Yes. It is a worthwhile organisation. I didn’t physically check the crates but, basically, yes. And it’s not “our” collection, it’s my collection. No offence.",Iron Man 2,0.128
+352,NATASHA ROMANOFF,Legal.,Iron Man 2,0.128
+353,PEPPER POTTS,You’ve got to be kidding.,Iron Man 2,0.1027
+354,JUSTIN HAMMER,"She’s actually doing a big spread on me for Vanity Fair. I thought I’d throw her a bone, you know. Right?",Iron Man 2,0.1027
+355,TONY STARK,"The reason I’m alive is ‘cause you had a shot, you took it, you missed.",Iron Man 2,0.1027
+356,JAMES RHODES,"You gotta be kidding me.  That’s it, I’m making….",Iron Man 2,0.1027
+357,TONY STARK,"No, it’s fine. Take that. It’s fine",Iron Man 2,0.1027
+358,JUSTIN HAMMER,Are you kidding me?,Iron Man 2,0.1027
+359,PEPPER POTTS,"No, I’m gonna stay until to park is clear.",Iron Man 2,0.1027
+360,CHRISTINE EVERHART,"Sorry, Mr Stark, do you honestly expect us to believe that that was a bodyguard in a suit that convinently appeared despite the fact that you sorely despise bodyguards?",Iron Man 2,0.0772
+361,HAPPY HOGAN,"Rule number one, never take your eyes off your opponent.",Iron Man 2,0.0772
+362,TONY STARK,I want one.,Iron Man 2,0.0772
+363,TONY STARK,"You quit. Smile. Look, right there. Stop acting constipated. Don’t flare your nostrils.",Iron Man 2,0.0772
+364,TONY STARK,Then we’ll make it work.  You want a massage?,Iron Man 2,0.0772
+365,PEPPER POTTS,I don’t want Natalie to do…,Iron Man 2,0.0772
+366,IVAN VANKO,I want my bird.,Iron Man 2,0.0772
+367,IVAN VANKO,I want my bird.,Iron Man 2,0.0772
+368,IVAN VANKO,I want my bird.,Iron Man 2,0.0772
+369,IVAN VANKO,What you want them do?,Iron Man 2,0.0772
+370,JAMES RHODES,"Yes, sir, I understand. No. No, sir, that will not be necessary. I’ll handle it. Sir, I personally guarantee that within 24 hours, Iron Man will be back on watch.  Hey Pepper.",Iron Man 2,0.0772
+371,TONY STARK,"Come on, you know you want to.",Iron Man 2,0.0772
+372,NICK FURY,"Tony, I want you to meet Agent Romanoff.",Iron Man 2,0.0772
+373,TONY STARK,What do you want from me?,Iron Man 2,0.0772
+374,TONY STARK,"You want to run some tests, run them. And assemble the suit while you’re at it. Put it together now.",Iron Man 2,0.0772
+375,TONY STARK,Got you. Where do you want to be?,Iron Man 2,0.0772
+376,JUSTIN HAMMER,Excuse me?,Iron Man 2,0.0772
+377,SENATOR STERN,"Mr Stark. Thank you for such as exceptionally distinguished performance. You deserve this.  Oh, sorry. Funny how annoying a little prick can be, isn’t it? Let’s get a photo.",Iron Man 2,0.0754
+378,TONY STARK,"Well, you can forget it. I am Iron Man. The suit and I are one. To turn over the Iron Man suit would be to turn over myself which is tantamount to indentured servitude or prostitution, depending or what state you’re in. You can’t have it.",Iron Man 2,0.0516
+379,PEPPER POTTS,"Oh, God. No. I don’t want a massage.",Iron Man 2,0.0516
+380,TONY STARK,How are you gonna resign if I don’t accept?,Iron Man 2,0.0516
+381,SENATOR STERN,"I have before me a complete report on the Iron Man weapon, complied by Colonel Rhodes. And, Colonel, for the record, can you please read page 57, paragraph four?",Iron Man 2,0.0258
+382,NICK FURY,"As a matter of fact, I did. He was one of the founding members of SHIELD.",Iron Man 2,0.0258
+383,PEPPER POTTS,"Actually, while you’re here maybe you and Natalie could discuss the matter of the personal belongings.",Iron Man 2,0.0258
+384,TONY STARK,I don’t care about the liberal agenda any more. It’s boring. Boring. I’m giving you a boring alert.  You do it.,Iron Man 2,0.0205
+385,CHRISTINE EVERHART,And this mysterious bodyguard was somehow equipped with an undisclosed Stark high-tech powered battle…,Iron Man 2,0.0
+386,ANTON VANKO,Ivan. Vanya. That should be you.,Iron Man 2,0.0
+387,PRETTY MUCH EVERYONE IN THE CROWD,Tony! Tony! Tony! Tony!,Iron Man 2,0.0
+388,MAN IN CROWD,Blow something up!,Iron Man 2,0.0
+389,TONY STARK,"All right, it’s a zoo out there, watch out.",Iron Man 2,0.0
+390,HAPPY HOGAN,"Open up, let’s go.",Iron Man 2,0.0
+391,PEOPLE,"Tony, Tony",Iron Man 2,0.0
+392,TONY STARK,"Hey, hey.",Iron Man 2,0.0
+393,WOMAN,Call me.,Iron Man 2,0.0
+394,HAPPY HOGAN,"Hey, hey, hey, hey. Come on, come on.",Iron Man 2,0.0
+395,TONY STARK,See you buddy,Iron Man 2,0.0
+396,HAPPY HOGAN,This is Larry.,Iron Man 2,0.0
+397,STAN LEE,Call me. Call me.,Iron Man 2,0.0
+398,HAPPY HOGAN,Larry King.,Iron Man 2,0.0
+399,HAPPY HOGAN,"Come on, Tony. There we go.",Iron Man 2,0.0
+400,TONY STARK,Very mellow.,Iron Man 2,0.0
+401,HAPPY HOGAN,"Look what we got here, the new model.",Iron Man 2,0.0
+402,TONY STARK,"Hey, does she come with the car?",Iron Man 2,0.0
+403,TONY STARK,Hi. And you are?,Iron Man 2,0.0
+404,WOMAN,Marshal.,Iron Man 2,0.0
+405,TONY STARK,I’m on the wheel. Do you mind? Where you from?,Iron Man 2,0.0
+406,MARSHAL,Bedford.,Iron Man 2,0.0
+407,TONY STARK,What are you doing here?,Iron Man 2,0.0
+408,MARSHAL,Looking for you.,Iron Man 2,0.0
+409,MARSHAL,Serving subpoenas.,Iron Man 2,0.0
+410,TONY STARK,Yikes.,Iron Man 2,0.0
+411,MARSHAL,I got it. You are hereby ordered to appear before the Senate Armed Services Committee tomorrow morning at 9 am.,Iron Man 2,0.0
+412,TONY STARK,Can I see a badge?,Iron Man 2,0.0
+413,MARSHAL,You wanna see the badge?,Iron Man 2,0.0
+414,HAPPY HOGAN,D.C.? 250 miles.,Iron Man 2,0.0
+415,SENATOR STERN,Can I have your attention?,Iron Man 2,0.0
+416,TONY STARK,Absolutely.,Iron Man 2,0.0
+417,TONY STARK,I do not.,Iron Man 2,0.0
+418,SENATOR STERN,You do not?,Iron Man 2,0.0
+419,SENATOR STERN,Well… How would you describe it?,Iron Man 2,0.0
+420,TONY STARK,"I would describe it by defining it as what it is, Senator.",Iron Man 2,0.0
+421,SENATOR STERN,As?,Iron Man 2,0.0
+422,TONY STARK,It’s a high-tech prosthesis. That is… That is… That’s actually the most apt description I can make of it.,Iron Man 2,0.0
+423,TONY STARK,In prostitution? Of course not. You’re a senator. Come on.,Iron Man 2,0.0
+424,TONY STARK,"Let the record reflect that I observed Mr Hammer entering the chamber, and I am wondering if and when any actual expert will also be in attendance.",Iron Man 2,0.0
+425,TONY STARK,"Rhodey? What? Hey, buddy. I didn’t expect to see you here.",Iron Man 2,0.0
+426,JAMES RHODES,"Look, it’s me, I’m here. Deal with it. Let’s move on.",Iron Man 2,0.0
+427,TONY STARK,I just…,Iron Man 2,0.0
+428,JAMES RHODES,"You’re requesting that I read specific selections from my report, Senator?",Iron Man 2,0.0
+429,SENATOR STERN,I understand. A lot of things have changed today. So if you could just read…,Iron Man 2,0.0
+430,JAMES RHODES,You do understand that reading a single paragraph out of context does not reflect the summery of my final…,Iron Man 2,0.0
+431,SENATOR STERN,That’s enough Colonel,Iron Man 2,0.0
+432,JAMES RHODES,…to fold Mr Stark…,Iron Man 2,0.0
+433,SENATOR STERN,That’s enough,Iron Man 2,0.0
+434,JAMES RHODES,"…into the existing chain of command, Senator.",Iron Man 2,0.0
+435,JAMES RHODES,I believe it is somewhat premature to reveal these images to the general public at this time.,Iron Man 2,0.0
+436,SENATOR STERN,What is he doing?,Iron Man 2,0.0
+437,TONY STARK,"If you will direct your attention to said screens, I believe that’s North Korea.",Iron Man 2,0.0
+438,SENATOR STERN,Can you turn that off? Take it off.,Iron Man 2,0.0
+439,SENATOR STERN,I think we’re done is the point that he’s making. I don’t think there’s any reason…,Iron Man 2,0.0
+440,SENATOR STERN,For what?,Iron Man 2,0.0
+441,SENATOR STERN,"you, Mr Stark.  you, buddy. We’re adjourned. We’re adjourned for today.",Iron Man 2,0.0
+442,JARVIS,"We are up to 80 ounces a day to counteract the symptoms, sir.",Iron Man 2,0.0
+443,TONY STARK,Check palladium levels.,Iron Man 2,0.0
+444,JARVIS,"Blood toxicity, 24%. It appears that the continued use of the Iron Man suit is accelerating your condition. Another core has been depleted.",Iron Man 2,0.0
+445,TONY STARK,Mute.,Iron Man 2,0.0
+446,TONY STARK,What?,Iron Man 2,0.0
+447,PEPPER POTTS,What are you thinking?,Iron Man 2,0.0
+448,PEPPER POTTS,Did you just donate…,Iron Man 2,0.0
+449,TONY STARK,Keep your business.,Iron Man 2,0.0
+450,PEPPER POTTS,…our entire modern art collection to the…,Iron Man 2,0.0
+451,TONY STARK,Boy Scouts of America.,Iron Man 2,0.0
+452,PEPPER POTTS,…Boy Scouts of America?,Iron Man 2,0.0
+453,TONY STARK,It was a tax write-off. I needed that.,Iron Man 2,0.0
+454,PEPPER POTTS,"You know, there’s only about 8,011 things that I really need to talk to you about.",Iron Man 2,0.0
+455,PEPPER POTTS,Stark is in complete disarray. You understand that?,Iron Man 2,0.0
+456,PEPPER POTTS,Let me give you an example.,Iron Man 2,0.0
+457,TONY STARK,Let’s move onto another subject.,Iron Man 2,0.0
+458,TONY STARK,I’m not taking it down. I’m just replacing it with this. Let’s see what I can get going on here.,Iron Man 2,0.0
+459,PEPPER POTTS,"And to the plastic plantation tree, which was your idea by the way. Those people are on payroll…",Iron Man 2,0.0
+460,TONY STARK,Everything was my idea.,Iron Man 2,0.0
+461,PEPPER POTTS,…and you won’t make a decision.,Iron Man 2,0.0
+462,PEPPER POTTS,I do what?,Iron Man 2,0.0
+463,PEPPER POTTS,You will not give me the information…,Iron Man 2,0.0
+464,TONY STARK,I’m not asking you to try…,Iron Man 2,0.0
+465,PEPPER POTTS,…in order to…,Iron Man 2,0.0
+466,TONY STARK,I’m asking you to physically do it. I need you to do it.,Iron Man 2,0.0
+467,PEPPER POTTS,I am trying to do it.,Iron Man 2,0.0
+468,TONY STARK,"Pepper, you’re not listening to me!",Iron Man 2,0.0
+469,TONY STARK,I’m trying to make you CEO. Why won’t you let me?,Iron Man 2,0.0
+470,PEPPER POTTS,Have you been drinking?,Iron Man 2,0.0
+471,PEPPER POTTS,I don’t know what to think.,Iron Man 2,0.0
+472,TONY STARK,"Don’t think, drink. There you go.",Iron Man 2,0.0
+473,TONY STARK,It’s called mixed martial arts. It’s been around for three weeks.,Iron Man 2,0.0
+474,TONY STARK,"All right, put them up. Come on.",Iron Man 2,0.0
+475,NATASHA ROMANOFF,I need you to initial each box.,Iron Man 2,0.0
+476,HAPPY HOGAN,Lesson one. Never take your eye off…,Iron Man 2,0.0
+477,TONY STARK,"That’s it. I’m done. What’s your name, lady?",Iron Man 2,0.0
+478,NATASHA ROMANOFF,Rushman. Natalie Rushman,Iron Man 2,0.0
+479,TONY STARK,Front and centre. Come into the church.,Iron Man 2,0.0
+480,TONY STARK,Can you give her a lesson?,Iron Man 2,0.0
+481,TONY STARK,Pepper.,Iron Man 2,0.0
+482,PEPPER POTTS,What?,Iron Man 2,0.0
+483,TONY STARK,Who is she?,Iron Man 2,0.0
+484,TONY STARK,"I need a new assistant, boss.",Iron Man 2,0.0
+485,HAPPY HOGAN,You ever boxed before?,Iron Man 2,0.0
+486,TONY STARK,"How do I spell your name, Natalie?",Iron Man 2,0.0
+487,NATASHA ROMANOFF,R-U-S-H-M-A-N.,Iron Man 2,0.0
+488,PEPPER POTTS,"What, are you gonna google her now?",Iron Man 2,0.0
+489,PEPPER POTTS,"You’re so predictable, you know that?",Iron Man 2,0.0
+490,TONY STARK,"She’s fluent in French, Italian, Russian, Latin. Who speaks Latin?",Iron Man 2,0.0
+491,TONY STARK,Did you model in Tokyo? ‘Cause she modelled in Tokyo.,Iron Man 2,0.0
+492,PEPPER POTTS,Well…,Iron Man 2,0.0
+493,TONY STARK,I need her. She’s got everything that I need.,Iron Man 2,0.0
+494,TONY STARK,That’s what I’m talking about.,Iron Man 2,0.0
+495,HAPPY HOGAN,I just slipped.,Iron Man 2,0.0
+496,TONY STARK,You did?,Iron Man 2,0.0
+497,TONY STARK,"You have a quiet reserve. I don’t know, you have an old soul.",Iron Man 2,0.0
+498,NATASHA ROMANOFF,I meant your fingerprint.,Iron Man 2,0.0
+499,TONY STARK,Right.,Iron Man 2,0.0
+500,PEPPER POTTS,"So, how are we doing?",Iron Man 2,0.0
+501,NATASHA ROMANOFF,"Will that be all, Mr Stark?",Iron Man 2,0.0
+502,TONY STARK,"You know, it’s Europe. Whatever happens the next 20 minutes, just go with it.",Iron Man 2,0.0
+503,PEPPER POTTS,Go with it? Go with what?,Iron Man 2,0.0
+504,NATASHA ROMANOFF,Mr Stark?,Iron Man 2,0.0
+505,TONY STARK,Hey.,Iron Man 2,0.0
+506,NATASHA ROMANOFF,Hello. How was your flight?,Iron Man 2,0.0
+507,PEPPER POTTS,When did this happen?,Iron Man 2,0.0
+508,TONY STARK,What? You made me do it.,Iron Man 2,0.0
+509,PEPPER POTTS,I made you do what?,Iron Man 2,0.0
+510,PEPPER POTTS,You are so predictable.,Iron Man 2,0.0
+511,NATASHA ROMANOFF,Right this way.,Iron Man 2,0.0
+512,NATASHA ROMANOFF,You have a 9:30 dinner.,Iron Man 2,0.0
+513,NATASHA ROMANOFF,Absolutely.,Iron Man 2,0.0
+514,TONY STARK,Is this us?,Iron Man 2,0.0
+515,NATASHA ROMANOFF,It can be.,Iron Man 2,0.0
+516,PEPPER POTTS,Mr Musk. How are you?,Iron Man 2,0.0
+517,TONY STARK,You do?,Iron Man 2,0.0
+518,TONY STARK,I’ll have Natalie make an…,Iron Man 2,0.0
+519,JUSTIN HAMMER,Anthony. Is that you?,Iron Man 2,0.0
+520,TONY STARK,My least favourite person on Earth.,Iron Man 2,0.0
+521,JUSTIN HAMMER,"Hey, pal.",Iron Man 2,0.0
+522,TONY STARK,Justin Hammer.,Iron Man 2,0.0
+523,PEPPER POTTS,We do.,Iron Man 2,0.0
+524,JUSTIN HAMMER,"BTW, big story. The new CEO of Stark Industries.",Iron Man 2,0.0
+525,CHRISTINE EVERHART,"I know, I know.",Iron Man 2,0.0
+526,PEPPER POTTS,Oh.,Iron Man 2,0.0
+527,CHRISTINE EVERHART,Can I?,Iron Man 2,0.0
+528,PEPPER POTTS,I’m gonna go wash.,Iron Man 2,0.0
+529,JUSTIN HAMMER,"Hey, buddy. How you doing?",Iron Man 2,0.0
+530,TONY STARK,I’m all right.,Iron Man 2,0.0
+531,CHRISTINE EVERHART,Can I ask you… Is this the first time…,Iron Man 2,0.0
+532,JUSTIN HAMMER,Fromage  Say “Brie”.,Iron Man 2,0.0
+533,CHRISTINE EVERHART,…that you guys have seen each other?,Iron Man 2,0.0
+534,CHRISTINE EVERHART,"Listen, is it the first time you’ve seen each other since the Senate?",Iron Man 2,0.0
+535,TONY STARK,Since he got his contract revoked…,Iron Man 2,0.0
+536,JUSTIN HAMMER,"Actually, it’s on hold.",Iron Man 2,0.0
+537,NATASHA ROMANOFF,Mr Stark?,Iron Man 2,0.0
+538,TONY STARK,"Hammer needs a slot, Christine.",Iron Man 2,0.0
+539,JUSTIN HAMMER,…is a healthy…,Iron Man 2,0.0
+540,TONY STARK,…and owning a race car…,Iron Man 2,0.0
+541,JUSTIN HAMMER,…competition.,Iron Man 2,0.0
+542,TONY STARK,…if you don’t drive it?,Iron Man 2,0.0
+543,JUSTIN HAMMER,Is he driving?,Iron Man 2,0.0
+544,PEPPER POTTS,Natalie. Natalie!,Iron Man 2,0.0
+545,PEPPER POTTS,What do you know about this?,Iron Man 2,0.0
+546,NATASHA ROMANOFF,This is the first that I have known of it.,Iron Man 2,0.0
+547,PEPPER POTTS,"This, this cannot happen.",Iron Man 2,0.0
+548,NATASHA ROMANOFF,He’s waiting outside.,Iron Man 2,0.0
+549,NATASHA ROMANOFF,Right away.,Iron Man 2,0.0
+550,JUSTIN HAMMER,Just read me what you wrote.,Iron Man 2,0.0
+551,CHRISTINE EVERHART,"I will. I will, after.",Iron Man 2,0.0
+552,JUSTIN HAMMER,Just read it back to me.,Iron Man 2,0.0
+553,CHRISTINE EVERHART,But I have to make one quick phone call.,Iron Man 2,0.0
+554,JUSTIN HAMMER,Where are you going?,Iron Man 2,0.0
+555,JUSTIN HAMMER,I’ve got some caviar coming.,Iron Man 2,0.0
+556,SOMEONE IN BACKGROUND,Look! That’s Stark.,Iron Man 2,0.0
+557,PEPPER POTTS,"Go, go.",Iron Man 2,0.0
+558,HAPPY HOGAN,Hang on.,Iron Man 2,0.0
+559,PEPPER POTTS,Give me the case.,Iron Man 2,0.0
+560,HAPPY HOGAN,"Here, take it.",Iron Man 2,0.0
+561,PEPPER POTTS,Where’s the key?,Iron Man 2,0.0
+562,HAPPY HOGAN,It’s in my pocket.,Iron Man 2,0.0
+563,PEPPER POTTS,Car!,Iron Man 2,0.0
+564,TONY STARK,Were you heading from me or him?,Iron Man 2,0.0
+565,TONY STARK,‘Cause I can’t tell!,Iron Man 2,0.0
+566,PEPPER POTTS,Are you out of your mind?,Iron Man 2,0.0
+567,PEPPER POTTS,Get in the car right now!,Iron Man 2,0.0
+568,HAPPY HOGAN,Get in the car.,Iron Man 2,0.0
+569,HAPPY HOGAN,I got him!,Iron Man 2,0.0
+570,TONY STARK,Hit him again. Hit him again. Football.,Iron Man 2,0.0
+571,HAPPY HOGAN,I got him.,Iron Man 2,0.0
+572,PEPPER POTTS,Take the case! Take it!,Iron Man 2,0.0
+573,TONY STARK,Give him the case!,Iron Man 2,0.0
+574,POLICE OFFICER,"We ran his prints. We got nothing back, not even a name.",Iron Man 2,0.0
+575,TONY STARK,Where are we going?,Iron Man 2,0.0
+576,TONY STARK,Five minutes.,Iron Man 2,0.0
+577,POLICE OFFICER,Five minutes.,Iron Man 2,0.0
+578,IVAN VANKO,My father. Anton Vanko.,Iron Man 2,0.0
+579,PEPPER POTTS,What is that?,Iron Man 2,0.0
+580,TONY STARK,This is your in-flight meal.,Iron Man 2,0.0
+581,PEPPER POTTS,Did you just make that?,Iron Man 2,0.0
+582,PEPPER POTTS,"Tony, what are you not telling me?",Iron Man 2,0.0
+583,PEPPER POTTS,Not everybody runs on batteries Tony.,Iron Man 2,0.0
+584,JACK,We have some salmon carpaccio.,Iron Man 2,0.0
+585,JUSTIN HAMMER,Hey!,Iron Man 2,0.0
+586,IVAN VANKO,Hey.,Iron Man 2,0.0
+587,JUSTIN HAMMER,I can get you a bird. I can get you ten birds.,Iron Man 2,0.0
+588,PEPPER POTTS,Don’t tell them. Fax them…,Iron Man 2,0.0
+589,JAMES RHODES,Where is he?,Iron Man 2,0.0
+590,PEPPER POTTS,He’s downstairs.,Iron Man 2,0.0
+591,NEWS READER,But what happened in Monaco?,Iron Man 2,0.0
+592,TONY STARK,Let’s go.,Iron Man 2,0.0
+593,JAMES RHODES,"Hey, man. Hey, hey! You all right?",Iron Man 2,0.0
+594,TONY STARK,It’s palladium.,Iron Man 2,0.0
+595,JAMES RHODES,Is that supposed to be smoking?,Iron Man 2,0.0
+596,JAMES RHODES,You had this in your body? And how about the high-tech crossword puzzle on your neck?,Iron Man 2,0.0
+597,IVAN VANKO,unintelligible,Iron Man 2,0.0
+598,NATASHA ROMANOFF,Probably.,Iron Man 2,0.0
+599,NATASHA ROMANOFF,Ill-timed.,Iron Man 2,0.0
+600,NATASHA ROMANOFF,I’d do whatever I wanted to do with whoever I wanted to do it with.,Iron Man 2,0.0
+601,PEPPER POTTS,I’m going to get some air.,Iron Man 2,0.0
+602,PEPPER POTTS,I don’t know what to do.,Iron Man 2,0.0
+603,JAMES RHODES,Handle it. Or I’m gonna have to.,Iron Man 2,0.0
+604,PEPPER POTTS,It’s time to go to bed. It’s time.,Iron Man 2,0.0
+605,TONY STARK,Give me another smooch,Iron Man 2,0.0
+606,PEPPER POTTS,You just peed in the suit.,Iron Man 2,0.0
+607,TONY STARK,I know. It has a filtration system.,Iron Man 2,0.0
+608,TONY STARK,You could drink that water.,Iron Man 2,0.0
+609,TONY STARK,If you say so.,Iron Man 2,0.0
+610,JAMES RHODES,I’m only gonna say this once. Get out.  You don’t deserve to wear one of these. Shut it down!,Iron Man 2,0.0
+611,TONY STARK,Goldstein.,Iron Man 2,0.0
+612,JAMES RHODES,I told you to shut it down.,Iron Man 2,0.0
+613,JAMES RHODES,Sidekick this.  Had enough?,Iron Man 2,0.0
+614,PEPPER POTTS,Natalie!,Iron Man 2,0.0
+615,PEPPER POTTS,Don’t you “Miss Potts” me! I’m on to you. You know what? Ever since you came here…,Iron Man 2,0.0
+616,HAPPY HOGAN,Pepper!  Get out of here. Get out of here now.,Iron Man 2,0.0
+617,TONY STARK,You think you got what it takes to wear that suit?,Iron Man 2,0.0
+618,JAMES RHODES,"We don’t have to do this, Tony.",Iron Man 2,0.0
+619,JAMES RHODES,Put it down!,Iron Man 2,0.0
+620,TONY STARK,You gonna take a shot?,Iron Man 2,0.0
+621,JAMES RHODES,Put it down!,Iron Man 2,0.0
+622,TONY STARK,Take it!,Iron Man 2,0.0
+623,JAMES RHODES,"Edwards Tower, this is Lieutenant Colonel James Rhodes, inbound from three miles east at 5,000 feet…",Iron Man 2,0.0
+624,MAJOR ALLEN,Colonel.,Iron Man 2,0.0
+625,JAMES RHODES,Major.,Iron Man 2,0.0
+626,NICK FURY,Sir! I’m gonna have to ask you to exit the doughnut.,Iron Man 2,0.0
+627,NICK FURY,I am very real. I’m the realest person you’re ever gonna meet.,Iron Man 2,0.0
+628,NATASHA ROMANOFF,That’s not up to you.,Iron Man 2,0.0
+629,TONY STARK,Hi.,Iron Man 2,0.0
+630,NICK FURY,What did we just do for you? That’s lithium dioxide. It’s gonna take the edge off. We’re trying to get you back to work.,Iron Man 2,0.0
+631,TONY STARK,Give me a couple of boxes of that. I’ll be right as rain.,Iron Man 2,0.0
+632,NATASHA ROMANOFF,"It’s not a cure, it just abates the symptoms.",Iron Man 2,0.0
+633,IVAN VANKO,This is not my bird.,Iron Man 2,0.0
+634,JUSTIN HAMMER,We got this bird all the way from Russia.,Iron Man 2,0.0
+635,IVAN VANKO,"Hey, man, this is not my bird.",Iron Man 2,0.0
+636,IVAN VANKO,"Hey, man. Don’t get too attached to things. Learn to let go.",Iron Man 2,0.0
+637,JAMES RHODES,Fully mission-capable.,Iron Man 2,0.0
+638,JAMES RHODES,Sir?,Iron Man 2,0.0
+639,JAMES RHODES,"Sir, I don’t believe that the Expo…",Iron Man 2,0.0
+640,GENERAL,"Colonel, the world needs to see this fast. We’ve got to make this happen.",Iron Man 2,0.0
+641,GENERAL,It’s also an order.,Iron Man 2,0.0
+642,NICK FURY,That thing in your chest is based on unfinished technology.,Iron Man 2,0.0
+643,TONY STARK,"Just him, or Anton Vanko in on this too?",Iron Man 2,0.0
+644,TONY STARK,You told me I hadn’t tried everything. What do you mean I haven’t tried everything? What haven’t I tried?,Iron Man 2,0.0
+645,NICK FURY,He said that you were the only person with the means and knowledge to finish what he started.,Iron Man 2,0.0
+646,TONY STARK,He said that?,Iron Man 2,0.0
+647,NICK FURY,What do you remember about your dad?,Iron Man 2,0.0
+648,TONY STARK,What?,Iron Man 2,0.0
+649,NICK FURY,I got a two o’clock,Iron Man 2,0.0
+650,TONY STARK,"Wait, wait, wait, wait. What’s this?",Iron Man 2,0.0
+651,NICK FURY,You got this? Right? Right?,Iron Man 2,0.0
+652,TONY STARK,Got what? I don’t even know what I’m supposed to get.,Iron Man 2,0.0
+653,NICK FURY,"And Tony, remember, I got my eye on you.",Iron Man 2,0.0
+654,MAJOR ALLEN,Think this is the power source?,Iron Man 2,0.0
+655,JAMES RHODES,"Major, this is not a scientific exercise. Let’s just focus on arming it, all right?",Iron Man 2,0.0
+656,JAMES RHODES,That’s not what I’m talking about. I’m talking about firepower.,Iron Man 2,0.0
+657,JAMES RHODES,I think I’ll take it.,Iron Man 2,0.0
+658,JUSTIN HAMMER,Which one?,Iron Man 2,0.0
+659,JAMES RHODES,All of it.,Iron Man 2,0.0
+660,JUSTIN HAMMER,All of it.,Iron Man 2,0.0
+661,MAN,"All right, I think we got…",Iron Man 2,0.0
+662,HOWARD STARK,I’ll… I’ll… I’ll come in and…,Iron Man 2,0.0
+663,MAN,Are you waiting on me?,Iron Man 2,0.0
+664,TONY STARK,How much?,Iron Man 2,0.0
+665,STRAWBERRY MAN,$6. Six.,Iron Man 2,0.0
+666,TONY STARK,I don’t have any dough. Here.,Iron Man 2,0.0
+667,STRAWBERRY MAN,Are you Iron Man?,Iron Man 2,0.0
+668,TONY STARK,Sometimes.,Iron Man 2,0.0
+669,STRAWBERRY MAN,We believe in you!,Iron Man 2,0.0
+670,PA,Mr Stark…,Iron Man 2,0.0
+671,TONY STARK,Is here.,Iron Man 2,0.0
+672,PA,He refuses…,Iron Man 2,0.0
+673,PEPPER POTTS,"Listen, it’s our position that Stark has and continues to maintain propriety ownership of the Mark II platform.",Iron Man 2,0.0
+674,NEWS REPORTER,He obviously did not.,Iron Man 2,0.0
+675,PEPPER POTTS,Burt…,Iron Man 2,0.0
+676,NEWS REPORTER,And now we learn that his secretary…,Iron Man 2,0.0
+677,NEWS REPORTER,"…a woman named Virginia “Pepper” Potts, has been appointed as CEO of Stark Industries. What are her qualifications?",Iron Man 2,0.0
+678,TONY STARK,Mute.,Iron Man 2,0.0
+679,TONY STARK,I’ll get this stuff out of here.,Iron Man 2,0.0
+680,TONY STARK,Will I?,Iron Man 2,0.0
+681,PEPPER POTTS,Twenty-nine Twenty-eight.,Iron Man 2,0.0
+682,PEPPER POTTS,I need you…,Iron Man 2,0.0
+683,TONY STARK,I need you too.,Iron Man 2,0.0
+684,TONY STARK,That’s what I’m trying to…,Iron Man 2,0.0
+685,NATASHA ROMANOFF,Ms Potts?,Iron Man 2,0.0
+686,PEPPER POTTS,"Hi, come on in.",Iron Man 2,0.0
+687,NATASHA ROMANOFF,Wheels up in 25 minutes.,Iron Man 2,0.0
+688,HAPPY HOGAN,"Anything else, boss?",Iron Man 2,0.0
+689,NATASHA ROMANOFF,It means you can either drive yourself home or I can have you collected.,Iron Man 2,0.0
+690,JARVIS,"1974 Stark Expo model scan complete, sir.",Iron Man 2,0.0
+691,TONY STARK,How many buildings are there?,Iron Man 2,0.0
+692,JARVIS,Am I to include the Belgium waffle stands?,Iron Man 2,0.0
+693,JARVIS,"What is it you’re trying to achieve, sir?",Iron Man 2,0.0
+694,JARVIS,The proposed element should serve as a viable replacement for palladium.,Iron Man 2,0.0
+695,PHIL COULSON,I was doing some stuff.,Iron Man 2,0.0
+696,PHIL COULSON,What’s this doing here?,Iron Man 2,0.0
+697,TONY STARK,That’s it. Bring that to me.,Iron Man 2,0.0
+698,PHIL COULSON,You know what this is?,Iron Man 2,0.0
+699,PHIL COULSON,So I’m told.,Iron Man 2,0.0
+700,TONY STARK,Secret stuff?,Iron Man 2,0.0
+701,PHIL COULSON,We need you.,Iron Man 2,0.0
+702,PHIL COULSON,Not that much.,Iron Man 2,0.0
+703,JARVIS,Initialising prismatic accelerator.  Approaching maximum power.,Iron Man 2,0.0
+704,JUSTIN HAMMER,Hey Ivan. I got Senator Stern here. Thought we’d swing over and look at some of the drone designs.,Iron Man 2,0.0
+705,IVAN VANKO,I can make salute.,Iron Man 2,0.0
+706,IVAN VANKO,Hey!,Iron Man 2,0.0
+707,IVAN VANKO,unintelligible,Iron Man 2,0.0
+708,IVAN VANKO,"Hey, Tony, how you doing? I double cycle.",Iron Man 2,0.0
+709,TONY STARK,You what?,Iron Man 2,0.0
+710,IVAN VANKO,You too.,Iron Man 2,0.0
+711,TONY STARK,Trace him.,Iron Man 2,0.0
+712,JARVIS,Sir.,Iron Man 2,0.0
+713,TONY STARK,"Jarvis, where is he?",Iron Man 2,0.0
+714,JARVIS,Accessing the Oracle grid. Eastern Seaboard.,Iron Man 2,0.0
+715,IVAN VANKO,"What your father did to my family over 40 years, I will do to you in 40 minutes.",Iron Man 2,0.0
+716,JARVIS,Tri-State area. Manhattan and outlying boroughs.,Iron Man 2,0.0
+717,JARVIS,Call trace incomplete. Sir,Iron Man 2,0.0
+718,HAPPY HOGAN,"I’ll keep the car down here, all right?",Iron Man 2,0.0
+719,ANNOUNCER,…Justin Hammer. His presentation will begin shortly in the main pavilion.,Iron Man 2,0.0
+720,PEPPER POTTS,"Oh, Lord.",Iron Man 2,0.0
+721,PEPPER POTTS,What?,Iron Man 2,0.0
+722,JUSTIN HAMMER,"For America and its allies, Hammer Industries is reporting for…",Iron Man 2,0.0
+723,JAMES RHODES,"Tony, there are civilians present. I’m here on orders. Let’s not do this right now.",Iron Man 2,0.0
+724,TONY STARK,Give them a wave.,Iron Man 2,0.0
+725,TONY STARK,"Listen, I think he’s working with Vanko.",Iron Man 2,0.0
+726,TONY STARK,What is he?,Iron Man 2,0.0
+727,JUSTIN HAMMER,What?,Iron Man 2,0.0
+728,TONY STARK,Where’s Vanko?,Iron Man 2,0.0
+729,JUSTIN HAMMER,Who?,Iron Man 2,0.0
+730,TONY STARK,Tell me.,Iron Man 2,0.0
+731,JUSTIN HAMMER,What are you doing here man?,Iron Man 2,0.0
+732,JAMES RHODES,"Whoa, whoa, whoa.",Iron Man 2,0.0
+733,TONY STARK,Is that you?,Iron Man 2,0.0
+734,TONY STARK,Let’s take it outside.,Iron Man 2,0.0
+735,TONY STARK,"Jarvis, break in. I need to own him.",Iron Man 2,0.0
+736,JAMES RHODES,"Tony, Tony, I’m locked on. I have target lock.",Iron Man 2,0.0
+737,TONY STARK,On what?,Iron Man 2,0.0
+738,JAMES RHODES,"On you.  Tony, on your six!",Iron Man 2,0.0
+739,JUSTIN HAMMER,What’s going on? What’s happening?,Iron Man 2,0.0
+740,TECHNICIAN,The software’s been overridden.,Iron Man 2,0.0
+741,JUSTIN HAMMER,What? What do you mean it’s been overridden? What does that mean?,Iron Man 2,0.0
+742,TECHNICIAN,I think he slaved the drones.,Iron Man 2,0.0
+743,JUSTIN HAMMER,That’s impossible. Call the guards.,Iron Man 2,0.0
+744,JACK,All the phones are down sir.,Iron Man 2,0.0
+745,JACK,Their cell phones are not working either sir.,Iron Man 2,0.0
+746,TECHNICIAN,He’s locked us out of the mainframe.,Iron Man 2,0.0
+747,PEPPER POTTS,Who’s locked you out of the mainframe?,Iron Man 2,0.0
+748,PEPPER POTTS,Have you now?,Iron Man 2,0.0
+749,NATASHA ROMANOFF,You tell me who’s behind this. Who’s behind this?,Iron Man 2,0.0
+750,JUSTIN HAMMER,Ivan. Ivan Vanko.,Iron Man 2,0.0
+751,NATASHA ROMANOFF,Where is he?,Iron Man 2,0.0
+752,JUSTIN HAMMER,At my facility.,Iron Man 2,0.0
+753,PEPPER POTTS,Command Central.,Iron Man 2,0.0
+754,TONY STARK,How are we doing Jarvis?,Iron Man 2,0.0
+755,SECURITY GUARD,This way.,Iron Man 2,0.0
+756,HAPPY HOGAN,Nobody’s answering the phone. What’s going on?,Iron Man 2,0.0
+757,NATASHA ROMANOFF,Get in the car. Take me to Hammer Industries.,Iron Man 2,0.0
+758,HAPPY HOGAN,I’m not taking you anywhere.,Iron Man 2,0.0
+759,JAMES RHODES,You got multiples coming in on you.,Iron Man 2,0.0
+760,TONY STARK,Let’s get this away from the Expo.,Iron Man 2,0.0
+761,NATASHA ROMANOFF,"Wen we arrive, I need you to watch the perimeter.  I’m gonna enter the facility and take down the target. Watch the road.",Iron Man 2,0.0
+762,HAPPY HOGAN,I got it. I got it.,Iron Man 2,0.0
+763,JAMES RHODES,"Listen, listen. A pack just peeled off. They’re headed back to the Expo.",Iron Man 2,0.0
+764,TONY STARK,Got it.,Iron Man 2,0.0
+765,JAMES RHODES,In closing in on you. Ordnance coming in hot Tony. Watch it.,Iron Man 2,0.0
+766,NATASHA ROMANOFF,Stay in the car.,Iron Man 2,0.0
+767,HAPPY HOGAN,I’m not staying in the car.,Iron Man 2,0.0
+768,NATASHA ROMANOFF,"I said, stay in the car.",Iron Man 2,0.0
+769,HAMMER SECURITY GUARD,"Hey, hey, hey. You can’t come in here.",Iron Man 2,0.0
+770,SECOND GUARD,Hold on. Hey!,Iron Man 2,0.0
+771,TECHNICIAN,Each set of drone is communicating in its own unique language.,Iron Man 2,0.0
+772,JUSTIN HAMMER,Have you tried Russian? Why don’t you try Russian?,Iron Man 2,0.0
+773,ANNOUNCEMENT,Attention. We have intrusion on Grid W.,Iron Man 2,0.0
+774,SECURITY GUARD,We got it. We’re on our way.,Iron Man 2,0.0
+775,HAPPY HOGAN,I got him!,Iron Man 2,0.0
+776,TONY STARK,"Rhodey, you still locked on?",Iron Man 2,0.0
+777,JAMES RHODES,"Wait, wait, wait!",Iron Man 2,0.0
+778,NATASHA ROMANOFF,He’s gone.,Iron Man 2,0.0
+779,HAPPY HOGAN,What are you doing?,Iron Man 2,0.0
+780,NATASHA ROMANOFF,I’m rebooting Rhodey’s suit.,Iron Man 2,0.0
+781,JAMES RHODES,Tony.,Iron Man 2,0.0
+782,PEPPER POTTS,What do you mean you’re not dying? Did you just say you’re dying?,Iron Man 2,0.0
+783,PEPPER POTTS,What’s going on?,Iron Man 2,0.0
+784,PEPPER POTTS,You were gonna tell me? You really were dying?,Iron Man 2,0.0
+785,TONY STARK,You didn’t let me.,Iron Man 2,0.0
+786,PEPPER POTTS,Why didn’t you tell me that?,Iron Man 2,0.0
+787,TONY STARK,I was gonna make you an omelette and tell you.,Iron Man 2,0.0
+788,TONY STARK,We could have been in Venice.,Iron Man 2,0.0
+789,TONY STARK,"Rhodes? Snap out of it buddy. I need you. They’re coming. Come on, let’s roll. Get up.",Iron Man 2,0.0
+790,JAMES RHODES,"Oh, man. You can have your suit back.",Iron Man 2,0.0
+791,TONY STARK,Don’t be.,Iron Man 2,0.0
+792,JAMES RHODES,Where are you going?,Iron Man 2,0.0
+793,TONY STARK,What’re you talking about?,Iron Man 2,0.0
+794,JAMES RHODES,I meant me.,Iron Man 2,0.0
+795,TONY STARK,See that?,Iron Man 2,0.0
+796,TONY STARK,Rhodey? Get down.,Iron Man 2,0.0
+797,JUSTIN HAMMER,I told you that five minutes ago.,Iron Man 2,0.0
+798,PEPPER POTTS,That’s your guy here.,Iron Man 2,0.0
+799,POLICE OFFICER,Hands behind your back sir.,Iron Man 2,0.0
+800,PEPPER POTTS,"When they get here, I think you should station them at the south, east and both west exits.",Iron Man 2,0.0
+801,POLICE OFFICER,We shut down the 7 train in and out of Willets Point already.,Iron Man 2,0.0
+802,NATASHA ROMANOFF,Head up. You got one more drone incoming. This one looks different.  The repulsor signature is significantly higher.,Iron Man 2,0.0
+803,TONY STARK,With the what?  Hammer tech?,Iron Man 2,0.0
+804,JAMES RHODES,What?,Iron Man 2,0.0
+805,JAMES RHODES,This is your idea?,Iron Man 2,0.0
+806,TONY STARK,Take it!,Iron Man 2,0.0
+807,TONY STARK,Pepper?,Iron Man 2,0.0
+808,TONY STARK,You can’t?,Iron Man 2,0.0
+809,PEPPER POTTS,I can’t take this.,Iron Man 2,0.0
+810,TONY STARK,Look at me.,Iron Man 2,0.0
+811,PEPPER POTTS,I’m… I’m… I’m not making any excuses.,Iron Man 2,0.0
+812,TONY STARK,You actually were just making excuses. But you don’t have to.,Iron Man 2,0.0
+813,PEPPER POTTS,Well…,Iron Man 2,0.0
+814,PEPPER POTTS,I’ll handle the transition. It’ll be smooth.,Iron Man 2,0.0
+815,TONY STARK,I know.,Iron Man 2,0.0
+816,TONY STARK,Run that by me again.,Iron Man 2,0.0
+817,PEPPER POTTS,"I had just quit, actually.",Iron Man 2,0.0
+818,JAMES RHODES,You don’t have to do that. I heard the whole thing.,Iron Man 2,0.0
+819,JAMES RHODES,I was here first. Get a roof.,Iron Man 2,0.0
+820,TONY STARK,I thought you were out of one-liners.,Iron Man 2,0.0
+821,JAMES RHODES,That’s the last one.,Iron Man 2,0.0
+822,JAMES RHODES,It wasn’t a question.,Iron Man 2,0.0
+823,NICK FURY,Read on.,Iron Man 2,0.0
+824,TONY STARK,“Tony Stark not… Not recommended”? That doesn’t make any sense. How can you approve me but not approve me? I got a new ticker. I’m trying to do right by Pepper. I’m in a stable-ish relationship.,Iron Man 2,0.0
+825,NICK FURY,I’ll see what I can do.,Iron Man 2,0.0
+826,PHIL COULSON,"Sir, we’ve found it.",Iron Man 2,0.0
+827,REPORTER,"We are coming to you live from the kickoff at the Stark Expo, where Tony Stark has just walked offstage. Don’t worry if you can’t make it down here tonight because this Expo goes on all year long. And I’m gonna be here checking out all the attractions and the pavilions and inventions from all around the world.",Iron Man 2,-0.0258
+828,PEPPER POTTS,"No, you know what? I think I’m actually entitled to say “our” collection considering the time that I put in, over 10 years, curating that.",Iron Man 2,-0.0258
+829,TONY STARK,"Pepper, I need you to run the company. Well, stop trying to do it and do it.",Iron Man 2,-0.0258
+830,TONY STARK,All these people are in danger. We gotta get them out of here. You gotta trust me for the next five minutes.,Iron Man 2,-0.0258
+831,TONY STARK,Don’t leave me.,Iron Man 2,-0.0516
+832,PEPPER POTTS,A leave?,Iron Man 2,-0.0516
+833,TONY STARK,Road rash. Thank you.  What are you looking at?,Iron Man 2,-0.0516
+834,PEPPER POTTS,…to leave now,Iron Man 2,-0.0516
+835,IVAN VANKO,"I can make presentation, not demonstration.",Iron Man 2,-0.0762
+836,ANTON VANKO,I’m sorry. All I can give you is my knowledge.,Iron Man 2,-0.0772
+837,PEPPER POTTS,I’m sorry. He’s very eccentric.,Iron Man 2,-0.0772
+838,JUSTIN HAMMER,Sorry?,Iron Man 2,-0.0772
+839,TONY STARK,I’m sorry buddy. Had to thin out the herd. What’s your 20?,Iron Man 2,-0.0772
+840,TONY STARK,"You are… Well, if’s messy then let’s double back.",Iron Man 2,-0.1027
+841,GENERAL,Justin Hammer’s making a weapons presentation at the Expo. We’d like this to introduce it.,Iron Man 2,-0.1027
+842,JUSTIN HAMMER,"Tony’s… You know, he… We’re not competitive. You know what I mean?",Iron Man 2,-0.1326
+843,NATASHA ROMANOFF,Miss Potts.,Iron Man 2,-0.1531
+844,PHIL COULSON,"I’m not here for that. I’ve been authorised by Director Fury to use any means necessary to keep you on premises. If you attempt to leave or play any games, I will tase you and watch Supernanny while you drool into the carpet. Okay?",Iron Man 2,-0.1531
+845,PA,Miss Potts?,Iron Man 2,-0.1531
+846,NEWS REPORTER,Miss Potts has done nothing to manage this terrible…,Iron Man 2,-0.1531
+847,PEPPER POTTS,"Let me stop you right here, okay? Because if you say “I” one more time, I’m gonna actually hurl something at your head, I think. I am trying to run a company. Do you have any idea what that entails?",Iron Man 2,-0.168
+848,PEPPER POTTS,"No, it’s not weird.",Iron Man 2,-0.1734
+849,TONY STARK,Weird.,Iron Man 2,-0.1779
+850,JAMES RHODES,I think it was weird.  You guys look like two seals fighting over a grape.,Iron Man 2,-0.1779
+851,JARVIS,Incoming call with a blocked number sir.,Iron Man 2,-0.2023
+852,TONY STARK,There’s nothing more important to me than the Expo. It’s my primary point of concern. I don’t know why you’re…,Iron Man 2,-0.2044
+853,TONY STARK,I’m the one who put you in this position. Forget it.,Iron Man 2,-0.2263
+854,PEPPER POTTS,I quit. I’m resigning. That’s it.,Iron Man 2,-0.2263
+855,POLICE OFFICER,Over there. We’re not even sure he speaks English. He hasn’t said a word since he got here.,Iron Man 2,-0.2411
+856,JARVIS,We are unclear as to the effects.,Iron Man 2,-0.25
+857,HAPPY HOGAN,"What are you wearing? Look, I’m not letting you go in there alone.",Iron Man 2,-0.25
+858,JAMES RHODES,Drop it.,Iron Man 2,-0.2732
+859,TONY STARK,"All right, I’ll drop it.",Iron Man 2,-0.2732
+860,TONY STARK,"Don’t want you tense. By the way, I didn’t mean to spring this on you.",Iron Man 2,-0.2732
+861,TONY STARK,Drop your socks and grab your Crocs. We’re about to get wet on this ride.,Iron Man 2,-0.2732
+862,TONY STARK,I was going to tell you. I didn’t want to alarm you.,Iron Man 2,-0.2732
+863,TONY STARK,My device does not fit that description.,Iron Man 2,-0.2755
+864,TONY STARK,"I lost both the kids in the divorce.  Are you blending in well here, Natalie? Here are Stark Enterprises? Your name is Natalie, isn’t it? I thought you two didn’t get along?",Iron Man 2,-0.2869
+865,TONY STARK,"God, that’s so awful.",Iron Man 2,-0.2944
+866,SENATOR STERN,The Iron Man weapon.,Iron Man 2,-0.296
+867,SENATOR STERN,"Look, I’m no expert…",Iron Man 2,-0.296
+868,TONY STARK,"Dummy. Hey, stop spacing out. The Bridgeport’s already machining that part.",Iron Man 2,-0.296
+869,TONY STARK,No. Our stocks have never been higher.,Iron Man 2,-0.296
+870,PEPPER POTTS,"No, you are not listening to me.",Iron Man 2,-0.296
+871,PEPPER POTTS,"No, it’s not.",Iron Man 2,-0.296
+872,PEPPER POTTS,No one speaks Latin.,Iron Man 2,-0.296
+873,TONY STARK,No one speaks Latin,Iron Man 2,-0.296
+874,TONY STARK,No.,Iron Man 2,-0.296
+875,PEPPER POTTS,No.,Iron Man 2,-0.296
+876,JACK,No.,Iron Man 2,-0.296
+877,STRAWBERRY MAN,"No, sir, that’s too much.",Iron Man 2,-0.296
+878,STRAWBERRY MAN,"No, señor.",Iron Man 2,-0.296
+879,PEPPER POTTS,"No, the suit belongs to us.",Iron Man 2,-0.296
+880,PEPPER POTTS,No.,Iron Man 2,-0.296
+881,PEPPER POTTS,"No, he will not. Bye.",Iron Man 2,-0.296
+882,PEPPER POTTS,No.,Iron Man 2,-0.296
+883,PEPPER POTTS,No.,Iron Man 2,-0.296
+884,PEPPER POTTS,"No, I’ll be just another minute.",Iron Man 2,-0.296
+885,PEPPER POTTS,No. That’s not so.,Iron Man 2,-0.296
+886,HAPPY HOGAN,"No, I’m driving. Get in the car.",Iron Man 2,-0.296
+887,TONY STARK,"Is that you? No, I’m not. Not anymore.",Iron Man 2,-0.296
+888,TONY STARK,No. It’s subtle all the bells and whistles.,Iron Man 2,-0.296
+889,NATASHA ROMANOFF,He doesn’t want to be disturbed.,Iron Man 2,-0.3182
+890,TONY STARK,You should get lost.,Iron Man 2,-0.3182
+891,NICK FURY,That’s not true.,Iron Man 2,-0.3252
+892,TONY STARK,Not okay. Not okay with that.,Iron Man 2,-0.3252
+893,TONY STARK,It’s… It’s… It’s… I’m sorry. I don’t wanna get off on the wrong foot. Do I look at the patch or the eye? Honestly I’m a bit hung over. I’m not sure if you’re real of if I’m having…,Iron Man 2,-0.3318
+894,JAMES RHODES,Drop it Tony!,Iron Man 2,-0.3382
+895,PEPPER POTTS,The Expo is your ego gone crazy.,Iron Man 2,-0.34
+896,JARVIS,"Unfortunately, it is impossible to synthesise.",Iron Man 2,-0.34
+897,TONY STARK,I am fine. Don’t be mad. I will formally apologise…,Iron Man 2,-0.34
+898,POLICE OFFICER,You’re being placed under arrest.,Iron Man 2,-0.34
+899,JUSTIN HAMMER,Not ready? What do you mean?,Iron Man 2,-0.3549
+900,JUSTIN HAMMER,"You can make salute? What do you mean “make salute”? What the hell does that mean Ivan? This is not what we agreed to, okay? You promised me suits and then you promised me drones.",Iron Man 2,-0.3557
+901,PEPPER POTTS,Stop banging the car!,Iron Man 2,-0.3595
+902,TONY STARK,No!,Iron Man 2,-0.3595
+903,TONY STARK,"Now, put that thing back where you found it before someone gets hurt.  Really?  Sorry, pal, but Iron Man doesn’t have a sidekick.",Iron Man 2,-0.3604
+904,JUSTIN HAMMER,"Wait, wait, wait. Wait, wait, wait. What can you make them do? I mean, this is a weapons demonstration.",Iron Man 2,-0.3612
+905,JARVIS,Remote reboot unsuccessful.,Iron Man 2,-0.3612
+906,JAMES RHODES,All these drones are rigged to blow. We gotta get out of here man.,Iron Man 2,-0.3612
+907,IVAN VANKO,Don’t listen to that crap,Iron Man 2,-0.3818
+908,SENATOR STERN,"It’s just unbelievable. It proves that the genie is out of the bottle and this man has no idea what he’s doing. He thinks of the Iron Man weapon as a toy. I was at a hearing where Mr Stark, in fact, was adamant that these suits can’t exist anywhere else, don’t exist anywhere else, never will exist anywhere else, at least for five to ten years, and here we are in Monaco realising, “These suits exist now.”",Iron Man 2,-0.3818
+909,PEPPER POTTS,"It’s a dead language. You can read Latin or you can write Latin, but you can’t speak Latin.",Iron Man 2,-0.3919
+910,PEPPER POTTS,She is from legal. And she is potentially a very expensive sexual harassment lawsuit if you keep ogling her like that.,Iron Man 2,-0.3947
+911,GENERAL,Unbelievable. This ought to get the Senate off my ass. It’s functional?,Iron Man 2,-0.4019
+912,TONY STARK,We got trouble.,Iron Man 2,-0.4019
+913,IVAN VANKO,You lose.,Iron Man 2,-0.4019
+914,PEPPER POTTS,It’s not sexy.,Iron Man 2,-0.4168
+915,JAMES RHODES,"No, I’m not doing that. That’s not me. I can’t move. I’m locked up. I’m locked up!  Get out of here. Go! This whole system’s been compromised.",Iron Man 2,-0.4184
+916,PEPPER POTTS,I don’t think this is the right time. We’re in kind of a mess.,Iron Man 2,-0.4201
+917,PEPPER POTTS,The Expo is a gigantic waste of time.,Iron Man 2,-0.4215
+918,PHIL COULSON,I heard you broke the perimeter.,Iron Man 2,-0.4215
+919,JUSTIN HAMMER,How you doing? You’re not the only rich guy here with a fancy car. You know Christine Everhart from Vanity Fair. You guys know each other?,Iron Man 2,-0.4374
+920,HAPPY HOGAN,"It’s called dirty boxing, there’s nothing new about it",Iron Man 2,-0.4404
+921,PEPPER POTTS,No. You’re seriously not gonna ask…,Iron Man 2,-0.4404
+922,CHRISTINE EVERHART,My editor will kill me if I don’t grab a quote for our Powerful Women issue.,Iron Man 2,-0.4404
+923,NATASHA ROMANOFF,Inappropriate.  Is that dirty enough for you?,Iron Man 2,-0.4404
+924,PEPPER POTTS,That’s rude.,Iron Man 2,-0.4588
+925,JAMES RHODES,"Tony, don’t be jealous.",Iron Man 2,-0.4588
+926,TONY STARK,"I do not. Well, it depends on how you define the word weapon.",Iron Man 2,-0.4614
+927,TONY STARK,"Right, sends the wrong message.",Iron Man 2,-0.4767
+928,JAMES RHODES,What’s wrong?,Iron Man 2,-0.4767
+929,TONY STARK,I’ve been worse.,Iron Man 2,-0.4767
+930,TONY STARK,…when I’m not fending off a Hammeroid attack.,Iron Man 2,-0.4767
+931,HAPPY HOGAN,I was trying to scare him.,Iron Man 2,-0.4939
+932,TONY STARK,"If you must know, it’s neutron damage. It’s from the reactor wall.",Iron Man 2,-0.4939
+933,NICK FURY,"Anton Vanko is the other side of that coin. Anton saw it as a way to get rich. When your father found out, he had him deported. When the Russians found out he couldn’t deliver they shipped his ass off to Siberia and he spent the next 20 years in a vodka-fuelled rage. Not quite the environment you want to raise a kid in, the son you had the misfortune of crossing paths with in Monaco.",Iron Man 2,-0.4939
+934,JARVIS,"I have run simulations on every known element, and none can serve as a viable replacement for the palladium core. You are running out of both time and options. Unfortunately, the device that’s keeping you alive is also killing you. Miss Potts is approaching. I recommend that you inform her…",Iron Man 2,-0.5106
+935,TONY STARK,"Speaking of thieves, where did you get this design?",Iron Man 2,-0.5106
+936,TONY STARK,Where will you be watching the world consume me from? That’s right. A prison cell. I’ll send you a bar of soap.,Iron Man 2,-0.5106
+937,JAMES RHODES,I’m looking at you. You wanna do this whole lone gunslinger act and it’s unnecessary. You don’t have to do this alone.,Iron Man 2,-0.5187
+938,TONY STARK,Green is not your best colour.,Iron Man 2,-0.5216
+939,PEPPER POTTS,"My body, literally, cannot handle the stress. I never know if you’re gonna kill yourself or wreak the whole company.",Iron Man 2,-0.5216
+940,SENATOR STERN,"It’s a weapon. It’s a weapon, Mr Stark.",Iron Man 2,-0.5267
+941,JUSTIN HAMMER,"Okay, give me a left twist. Left’s good. Turn to the right. Oh, shit. Oh, shit.",Iron Man 2,-0.5267
+942,JUSTIN HAMMER,"No, no, honey. Don’t call the authorities.",Iron Man 2,-0.5267
+943,PEPPER POTTS,"People are relying on you to be Iron Man and you’ve disappeared, and all I’m doing is putting out your fires and taking the heat of it. I am trying to do the job that you were meant to do. Did you bring me strawberries? Did you know that there’s only one thing on Earth that I’m allergic to?",Iron Man 2,-0.5362
+944,PEPPER POTTS,I am mad!,Iron Man 2,-0.5411
+945,TONY STARK,Got any other bad ideas?,Iron Man 2,-0.5423
+946,JAMES RHODES,Pepper. This is ridiculous. I just stuck my neck out for this guy.,Iron Man 2,-0.5423
+947,TONY STARK,Give me a phat beat to beat my buddy’s ass to.,Iron Man 2,-0.5423
+948,TONY STARK,"You kicked ass back there, by the way.",Iron Man 2,-0.5423
+949,IVAN VANKO,Software shit.,Iron Man 2,-0.5574
+950,TONY STARK,You’re fired.,Iron Man 2,-0.5574
+951,PEPPER POTTS,It was an illegal seizure of trademark property.,Iron Man 2,-0.5574
+952,TONY STARK,"No, I’m not good.",Iron Man 2,-0.5583
+953,JAMES RHODES,"No, no!",Iron Man 2,-0.5707
+954,PHIL COULSON,Nothing. Goodbye. I’ve been reassigned. Director Fury wants me in New Mexico.,Iron Man 2,-0.5719
+955,TONY STARK,You have a big gun. You are not the big gun.,Iron Man 2,-0.5859
+956,NATASHA ROMANOFF,It’s no problem.,Iron Man 2,-0.5994
+957,HAPPY HOGAN,No problem.,Iron Man 2,-0.5994
+958,IVAN VANKO,I can do that. No problem.,Iron Man 2,-0.5994
+959,TONY STARK,"You wanna be the War Machine, take your shot.",Iron Man 2,-0.5994
+960,TONY STARK,"No, it was finished. It has never been particularly effective until I miniaturised it and put it in my…",Iron Man 2,-0.6086
+961,JAMES RHODES,Don’t stay down here. This is the worst place to be.,Iron Man 2,-0.6249
+962,TONY STARK,"Dummy, You, can we clean up this mess? You’re killing me. You know I don’t…",Iron Man 2,-0.6369
+963,JAMES RHODES,No. It’s your fault. I just wanted to say I’m sorry.,Iron Man 2,-0.6369
+964,IVAN VANKO,You… You lose. You lose Stark.,Iron Man 2,-0.6597
+965,TONY STARK,But that’s unprofessional. What’s on the docket?,Iron Man 2,-0.6652
+966,JUSTIN HAMMER,"Salmon carpaccio. Anything you want here, we got it. I like my dessert first. I had this flown in from San Francisco. It’s Italian though. Organic ice cream. I got a sweet tooth. Apparently you do too, for Tony Stark. What I saw you do to Tony Stark on that track, how you stepped up to him in front of God and everybody that was… Wow. You spoke to me with what you did. And I know that you knew that I’d be listening. This is why I couldn’t bear to have you shipped off to God knows where. It would have been such a waste of talent. But if I might make a suggestion, you know, you don’t just go and try to kill the guy. I think, if I may, you go after his legacy. That’s what you kill. You and me, we are a lot alike in a lot of ways. The only difference between you and I is that I have resources. I think, if I may, you need my resources. Someone behind you, a benefactor. I’d like to be that guy. Okay. Do you speak English? Because I can get a translator. I don’t know. Have you been understanding everything I’m saying?",Iron Man 2,-0.6662
+967,NICK FURY,"Whoa, whoa, whoa. He took it? You’re Iron Man and he just took it? The little brother walked in there, kicked your ass and took your suit?  Is that possible?",Iron Man 2,-0.6662
+968,HAPPY HOGAN,That wasn’t so bad.,Iron Man 2,-0.6696
+969,HAPPY HOGAN,What the hell was that?,Iron Man 2,-0.6808
+970,PEPPER POTTS,"No, no, no. Don’t call anyone.",Iron Man 2,-0.6808
+971,TONY STARK,"No, no, no, we can’t … Wait, wait, wait. We didn’t have the cake. We didn’t blow out the candles.",Iron Man 2,-0.6808
+972,NICK FURY,"No, no, no. See, I remember, you do everything yourself. How’s that working out for you?",Iron Man 2,-0.6808
+973,JUSTIN HAMMER,What the hell is the difference?,Iron Man 2,-0.6808
+974,IVAN VANKO,Presentation. No fly. No shoot.,Iron Man 2,-0.7003
+975,JUSTIN HAMMER,"Regardless, it was an impressive innovation, one that grabbed the headlines the world over. Well, today, my friends, the press is faced with quite a difficult problem. They are about to run out of ink.  Get that out of here. Ladies and gentlemen, today I present to you the new face of the United States military. The Hammer drone.  Army! Navy! Air Force! Marines! Yeah! Yeah! Woo! That’s a hell of a lot better than some cheerleaders, let me tell you. But as revolutionary as this technology is, there will always be a need for man to be present in the theatre of war  Ladies and gentlemen, today I am proud to present to you the very first prototype in the Variable Threat Response Battle Suit and its pilot, Air Force Lieutenant Colonel James Rhodes.",Iron Man 2,-0.7007
+976,JUSTIN HAMMER,"No, no, no!",Iron Man 2,-0.7088
+977,TONY STARK,"I know that it’s confusing. It is one thing to question the official story and another thing entirely to make wild accusations, or insinuate that I’m a superhero. I mean, let’s face it, I’m not the heroric type. A laundry list of character defects, all the mistakes I’ve made, largely public. The truth is… I am Iron Man.",Iron Man 2,-0.7269
+978,TONY STARK,"Hey, I’m thinking I’m busy. And you’re angry about something. Do you have the sniffles? I don’t want to get sick.",Iron Man 2,-0.743
+979,NATASHA ROMANOFF,"I’m a SHIELD shadow. Once we knew you were ill, I was tasked to you by Director Fury.",Iron Man 2,-0.7579
+980,PEPPER POTTS,"No, no, no, no. You are not taking down the Barnett Newman and hanging that up.",Iron Man 2,-0.7783
+981,IVAN VANKO,"Hey, Tony. Before you go, palladium in the chest, painful way to die.",Iron Man 2,-0.7783
+982,NICK FURY,"What do we want from you? What do you want from me?  You have become a problem, a problem I have to deal with. Contrary to your belief, you are not the centre of my universe. I have bigger problems than you in the southwest region to deal with.  Hit him.",Iron Man 2,-0.782
+983,TONY STARK,"I’m discovering… Correction. I’m rediscovering a new element, I believe. Lose the landscaping, the shrubbery, the trees.  Parking lots, exits, entrances. Structure the protons and the neutrons using the pavilions as a framework. Dad.  Dead for almost 20 years, and still taking me to school.",Iron Man 2,-0.7906
+984,SENATOR STERN,"I’m no expert in weapons. We have somebody here who is an expert on weapons. I’d now like to call Justin Hammer, our current primary weapons contractor.",Iron Man 2,-0.8126
+985,TONY STARK,"Iran. No grave threat here. Is that Justin Hammer? How did Hammer get in the game? Justin, you’re on TV. Focus up.",Iron Man 2,-0.8205
+986,IVAN VANKO,"You come from a family of thieves and butchers. And now, like all guilty men, you try to rewrite your own history. And you forget all the lives the Stark family has destroyed.",Iron Man 2,-0.8271
+987,JAMES RHODES,"It’s the kill box, Tony. Okay This is where you go to die.",Iron Man 2,-0.8271
+988,JARVIS,"Query complete sir. Anton Vanko was a Soviet physicist who defected to the United States in 1963.However, he was accused of espionage and was deported in 1967. His son, Ivan, who is also a physicist, was convicted of selling Soviet-era weapons grade plutonium to Pakistan, and served 15 years in Kopeisk prison. No further records exist.",Iron Man 2,-0.8591
+989,JUSTIN HAMMER,"Yeah. That’s what I’m talking about. Thanks for coming. Ladies and gentlemen, for far too long, this country has had to place its brave men and women in harm’s way, but then the Iron Man arrived, and we thought the days of losing lives were behind us. Sadly, that technology was kept out of reach. That’s not fair. That’s not right. And it’s just too bad.",Iron Man 2,-0.8858
