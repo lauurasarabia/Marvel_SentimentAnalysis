@@ -34,11 +34,11 @@ On the other hand, I created a new database in mySQL and exported all the obtain
 ### 5.  Tableau
 I created the following visualizations in Tableau:
 
-*** In this dashboard we can see the total number of words per character and the year of release per each movie. ***
+#### In this dashboard we can see the total number of words per character and the year of release per each movie.
 
 ![dashboard1](https://github.com/lauurasarabia/project4/blob/main/images/movies_characters.png?raw=true)
 
-*** In the first visualization on the dashboard below, you can see how the average compound had its peak on 2010 and kept with ups and downs during the years. The highest point belongs to "Iron Man 2" which is reflected on the second visualization. ***
+#### In the first visualization on the dashboard below, you can see how the average compound had its peak on 2010 and kept with ups and downs during the years. The highest point belongs to "Iron Man 2" which is reflected on the second visualization.
 
 ![dashboard2](https://github.com/lauurasarabia/project4/blob/main/images/compound.png?raw=true)
 
