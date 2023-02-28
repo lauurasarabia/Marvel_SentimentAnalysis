@@ -1,5 +1,5 @@
 .env
 **/*.ipynb_checkpoints/
-**/data
-**/queries
+**/data/
+**/queries/
 **/.DS_Store
